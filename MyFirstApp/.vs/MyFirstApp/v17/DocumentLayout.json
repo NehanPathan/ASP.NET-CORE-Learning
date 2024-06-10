@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patha\\source\\repos\\MyFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0A2A60-6547-4A76-B610-D6B8D1FCBDBE}|MyFirstApp\\MyFirstApp.csproj|c:\\users\\patha\\source\\repos\\myfirstapp\\myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B0A2A60-6547-4A76-B610-D6B8D1FCBDBE}|MyFirstApp\\MyFirstApp.csproj|solutionrelative:myfirstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\patha\\source\\repos\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyFirstApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\patha\\source\\repos\\MyFirstApp\\MyFirstApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyFirstApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T11:36:30.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
