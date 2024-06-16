@@ -24,3 +24,4 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Routing_Practice\obj\Debug
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Routing_Practice\obj\Debug\net8.0\Routing_Practice.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Routing_Practice\obj\Debug\net8.0\Routing_Practice.genruntimeconfig.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Routing_Practice\obj\Debug\net8.0\ref\Routing_Practice.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Routing_Practice\bin\Debug\net8.0\Routing_Practice.staticwebassets.runtime.json

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Routing_Practice\\wwwroot\\5) CPU.pdf",
+      "PackagePath": "staticwebassets\\5) CPU.pdf"
+    },
+    {
+      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Routing_Practice\\wwwroot\\panther1.png",
+      "PackagePath": "staticwebassets\\panther1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Routing_Practice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Routing_Practice.props",
+      "PackagePath": "build\\Routing_Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Routing_Practice.props",
+      "PackagePath": "buildMultiTargeting\\Routing_Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Routing_Practice.props",
+      "PackagePath": "buildTransitive\\Routing_Practice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

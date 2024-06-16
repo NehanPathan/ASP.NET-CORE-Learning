@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "ObGbNfR9S7YFr7z1RQJj6Ksza/uW2dBOkYC7lMlBJV0=",
+  "Hash": "IfTe/OJgVJxHZug/R5zjBMeZ1FxGfQMC8GIZrS512hA=",
   "Source": "Routing_Practice",
   "BasePath": "_content/Routing_Practice",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Routing_Practice\\wwwroot",
+      "Source": "Routing_Practice",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Routing_Practice\\wwwroot\\",
+      "BasePath": "_content/Routing_Practice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Routing_Practice\\wwwroot\\5) CPU.pdf",
+      "SourceId": "Routing_Practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Routing_Practice\\wwwroot\\",
+      "BasePath": "_content/Routing_Practice",
+      "RelativePath": "5) CPU.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\5) CPU.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Routing_Practice\\wwwroot\\panther1.png",
+      "SourceId": "Routing_Practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Routing_Practice\\wwwroot\\",
+      "BasePath": "_content/Routing_Practice",
+      "RelativePath": "panther1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\panther1.png"
+    }
+  ]
 }
