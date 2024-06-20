@@ -1,22 +1,30 @@
 
+using Controllers_Practice.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Controllers_Practice.Controllers
 {
-    [Controller]
-    public class HomeController
+    public class HomeController : Controller
     {
-        [Route("sayhello")]
+        [Route("home")]
         [Route("/")]
-        public string Index()
+        public ContentResult Index()
         {
-            return "Hello from Index";
+            // return new ContentResult() { Content = "Hello from Index", ContentType = "text/plain" };
+            // return Content("Hello from Index", "text/plain");
+            return Content("<h1>Welcome</h1> <h2>Hello from Index</h2>", "text/html");
+
         }
 
-        [Route("about")]
-        public string About()
+        [Route("person")]
+        public JsonResult Person()
         {
-            return "Hello from About";
+            Person person = new Person(){
+                Id = Guid.NewGuid(), FirstName = "Nehaan", LastName = "Khan", Age = 19
+            };
+            // return new JsonResult(person);
+            return Json(person);
+            // return "{ \"key\": \"value\"}";
         }
 
         [Route("contact-us/{mobile:regex(^\\d{{10}}$)}")]
