@@ -24,3 +24,4 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Controllers_Practice\obj\D
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Controllers_Practice\obj\Debug\net8.0\Controllers_Practice.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Controllers_Practice\obj\Debug\net8.0\Controllers_Practice.genruntimeconfig.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Controllers_Practice\obj\Debug\net8.0\ref\Controllers_Practice.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Controllers_Practice\bin\Debug\net8.0\Controllers_Practice.staticwebassets.runtime.json

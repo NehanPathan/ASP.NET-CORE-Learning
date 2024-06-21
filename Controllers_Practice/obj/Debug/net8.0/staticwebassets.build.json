@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "uJ18LVZvadhXDCrAmiGRjPe6mF9zDuuSvTyrcLqYKwk=",
+  "Hash": "8caLMOcUBFePt8nOp9r13wL9CziQRhTfsxiZ7tNL9OA=",
   "Source": "Controllers_Practice",
   "BasePath": "_content/Controllers_Practice",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Controllers_Practice\\wwwroot",
+      "Source": "Controllers_Practice",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Controllers_Practice\\wwwroot\\",
+      "BasePath": "_content/Controllers_Practice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Controllers_Practice\\wwwroot\\Certificate.pdf",
+      "SourceId": "Controllers_Practice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Controllers_Practice\\wwwroot\\",
+      "BasePath": "_content/Controllers_Practice",
+      "RelativePath": "Certificate.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Certificate.pdf"
+    }
+  ]
 }

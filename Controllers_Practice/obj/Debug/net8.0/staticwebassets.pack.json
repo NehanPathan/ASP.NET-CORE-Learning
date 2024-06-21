@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Controllers_Practice\\wwwroot\\Certificate.pdf",
+      "PackagePath": "staticwebassets\\Certificate.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Controllers_Practice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Controllers_Practice.props",
+      "PackagePath": "build\\Controllers_Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Controllers_Practice.props",
+      "PackagePath": "buildMultiTargeting\\Controllers_Practice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Controllers_Practice.props",
+      "PackagePath": "buildTransitive\\Controllers_Practice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
