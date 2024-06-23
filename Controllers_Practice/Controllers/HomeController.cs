@@ -51,7 +51,8 @@ namespace Controllers_Practice.Controllers
             // return new FileContentResult(bytes, "application/pdf");
             return File(bytes, "application/pdf");
         }
-        [Route("book")]
+        [Route("bookstore")]
+        //Url: /bookstore?bookid=5&isloggedin=true
         public IActionResult IActionResultUse()
         {
             //Book id should be applied
@@ -91,7 +92,25 @@ namespace Controllers_Practice.Controllers
 
             }
 
-            return File("/Certificate.pdf", "application/pdf");
+            // return File("/Certificate.pdf", "application/pdf");
+            //302 - Found - RedirectToActionResult
+            // return new RedirectToActionResult("Books", "Store", new {id = bookId }); //302 - Found
+            //return RedirectToAction("Books", "Store", new { id = bookId });
+
+            //301 - Moved Permanently - RedirectToActionResult
+            //return new RedirectToActionResult("Books", "Store", new { }, permanent: true); //301 - Moved Permanently
+            //return RedirectToActionPermanent("Books", "Store", new { id = bookId });
+
+            //302 - Found - LocalRedirectResult
+            //return new LocalRedirectResult($"store/books/{bookId}"); //302 - Found
+            //return LocalRedirect($"store/books/{bookId}"); //302 - Found
+
+            //301 - Moved Permanently - LocalRedirectResult
+            // return new LocalRedirectResult($"store/books/{bookId}", true); //301 - Moved Permanently
+            //  return LocalRedirectPermanent($"/store/books/{bookId}"); //301 - Moved Permanently
+
+            return Redirect($"store/books/{bookId}"); //302 - Found
+            //return RedirectPermanent($"store/books/{bookId}"); //301 - Moved Permanently
         }
 
     }
