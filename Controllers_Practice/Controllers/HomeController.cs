@@ -2,6 +2,7 @@
 using Controllers_Practice.Models;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace Controllers_Practice.Controllers
 {
     public class HomeController : Controller
@@ -53,7 +54,9 @@ namespace Controllers_Practice.Controllers
         }
         [Route("bookstore/{bookid?}/{isloggedin?}")]
         //Url: /bookstore?bookid=5&isloggedin=true
-        public IActionResult IActionResultUse(int? bookid, bool? isloggedin)
+        // public IActionResult IActionResultUse([FromQuery/FromRoute]int? bookid, bool? isloggedin)
+
+        public IActionResult IActionResultUse(int? bookid, bool? isloggedin,[FromQuery] Book book)
         {
             //Book id should be applied
             if (bookid.HasValue == false)
@@ -81,7 +84,7 @@ namespace Controllers_Practice.Controllers
                 return StatusCode(401);
 
             }
-            return Content($"Book id: {bookid}", "text/plain");
+            return Content($"Book id: {bookid}, Book: {book}", "text/plain");
            
         }
 
