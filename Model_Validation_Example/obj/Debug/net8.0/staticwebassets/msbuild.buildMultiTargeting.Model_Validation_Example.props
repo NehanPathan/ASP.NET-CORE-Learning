@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Model_Validation_Example.props" />
+</Project>
