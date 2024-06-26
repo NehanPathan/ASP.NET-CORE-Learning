@@ -56,7 +56,7 @@ namespace Controllers_Practice.Controllers
         //Url: /bookstore?bookid=5&isloggedin=true
         // public IActionResult IActionResultUse([FromQuery/FromRoute]int? bookid, bool? isloggedin)
 
-        public IActionResult IActionResultUse(int? bookid, bool? isloggedin,[FromQuery] Book book)
+        public IActionResult IActionResultUse(int? bookid, bool? isloggedin, Book book)
         {
             //Book id should be applied
             if (bookid.HasValue == false)

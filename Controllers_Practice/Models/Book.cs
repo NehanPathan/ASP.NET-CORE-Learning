@@ -8,7 +8,7 @@ namespace Controllers_Practice.Models
 {
     public class Book
     {
-        [FromQuery]
+        // [FromQuery]
         public int? BookId { get; set; }
         public string? Author { get; set; }
         public override string ToString()
