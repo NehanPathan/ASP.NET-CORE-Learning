@@ -1,5 +1,6 @@
 
 using Microsoft.AspNetCore.Mvc;
+using Model_Validation_Example.CustomModelBinders;
 using Model_Validation_Example.Models;
 
 namespace Model_Validation_Example.Controllers
@@ -9,7 +10,7 @@ namespace Model_Validation_Example.Controllers
 
         [Route("register")]
         // Place Before Person Below[Bind(nameof(Person.PersonName), nameof(Person.Email), nameof(Person.Password), nameof(Person.ConfirmPassword))]
-        public IActionResult Index([FromBody] Person person)
+        public IActionResult Index([FromBody] [ModelBinder(BinderType = typeof(PersonModelBinder))] Person person)
         {
             if (!ModelState.IsValid)
             {
