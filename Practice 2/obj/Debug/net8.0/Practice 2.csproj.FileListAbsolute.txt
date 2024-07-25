@@ -1,0 +1,26 @@
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\bin\Debug\net8.0\appsettings.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\bin\Debug\net8.0\Practice 2.exe
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\bin\Debug\net8.0\Practice 2.deps.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\bin\Debug\net8.0\Practice 2.runtimeconfig.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\bin\Debug\net8.0\Practice 2.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\bin\Debug\net8.0\Practice 2.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.AssemblyInfoInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.AssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.csproj.CoreCompileInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.sourcelink.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\staticwebassets\msbuild.Practice 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\staticwebassets\msbuild.build.Practice 2.props
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practice 2.props
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practice 2.props
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\scopedcss\bundle\Practice 2.styles.css
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\refint\Practice 2.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\Practice 2.genruntimeconfig.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\Practice 2\obj\Debug\net8.0\ref\Practice 2.dll

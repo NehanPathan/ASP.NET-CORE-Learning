@@ -39,13 +39,17 @@ namespace Model_Validation_Example.Models
 
         [MinimumYearValidator(2005)]
 
-        [BindNever]
+        // [BindNever]
         public DateTime? DateOfBirth { get; set; }
 
         public DateTime? FromDate { get; set; }
         [DateRangeValidator("FromDate", ErrorMessage = "'From date' should be older than or equal to  'To date'")]
         public DateTime? ToDate { get; set; }
         public int? Age { get; set; }
+
+        //this can be used for multiple values like Tags[0] = #value1, Tags[1] = #value2
+        public List<string?> Tags { get; set; } = new List<string>();
+        
 
 
         public override string ToString()

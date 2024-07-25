@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj": {}
+    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj": {
+    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj",
+        "projectUniqueName": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj",
         "projectName": "FirstWeb",
-        "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj",
+        "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Practice\\FirstWeb\\FirstWeb\\FirstWeb.csproj",
         "packagesPath": "C:\\Users\\patha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\practice\\FirstWeb\\FirstWeb\\obj\\",
+        "outputPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\Practice\\FirstWeb\\FirstWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
