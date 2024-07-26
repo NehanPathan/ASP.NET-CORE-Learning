@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7k9kCT/9Iwk3Xg0VpgdLZ7iIac7IOdg9n3EhgvxFjNk=",
+  "Source": "ViewExample",
+  "BasePath": "_content/ViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ViewExample\\wwwroot",
+      "Source": "ViewExample",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ViewExample\\wwwroot\\",
+      "BasePath": "_content/ViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
