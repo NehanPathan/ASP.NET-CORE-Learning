@@ -1,13 +1,20 @@
 @using ViewExample.Models
 @{
     string appTitle = "ASP .Net Core Application";
-    Person person = new Person()
-            {
-                Name = "Nehan",
-                DateOfBirth = null,
-                Persongender = Gender.Male
-            };
-    //Convert.ToDateTime("2004-11-26")
+    List<Person> people = new List<Person>
+{
+new Person(){
+Name = "Nehan",DateOfBirth=DateTime.Parse("2004-01-12"),Persongender=Gender.Male
+},
+
+new Person(){
+Name = "Khan",DateOfBirth=DateTime.Parse("2004-07-21"),Persongender=Gender.Female
+},
+
+new Person(){
+Name = "Pathan",DateOfBirth=DateTime.Parse("2004-11-26"),Persongender=Gender.Male
+}
+};
 }
 
 <!DOCTYPE html>
@@ -22,34 +29,33 @@
 
 <body>
     <h1>Welcome</h1>
-    <h2>Hello @person.Name</h2>
-    @if (person.DateOfBirth.HasValue)
+    @foreach (var person in people)
     {
-        double age = Math.Round((DateTime.Now - person.DateOfBirth).Value.TotalDays / 365.25);
-        <h3>@age</h3>
+        <div>@person.Name
+        <span>,</span>
+        <span>@person.Persongender</span>
+        @if (person.DateOfBirth != null)
+        {
+            <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
+
+        }
+        </div>
 
     }
-    else
+    <br>
+    @for (int i = 0; i < 2; i++)
     {
-        <h3>Date of birth is unknown</h3>
-    }
+        Person person = people[i];
+        <div>@person.Name
+        <span>,</span>
+        <span>@person.Persongender</span>
+        @if (person.DateOfBirth != null)
+        {
+            <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
 
-    @switch (person.Persongender)
-    {
-        case Gender.Male:
-            <p>Nov 19 is International Men's Day</p>
-            ;
-            break;
+        }
+        </div>
 
-        case Gender.Female:
-            <p>Mar 8 is International Female's Day</p>
-            ;
-            break;
-
-        case Gender.Other:
-            <p>Mar 31 is International Transgender's Day</p>
-            ;
-            break;
     }
 
 </body>
