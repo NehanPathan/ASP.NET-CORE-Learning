@@ -17,6 +17,20 @@ Name = "Pathan",DateOfBirth=DateTime.Parse("2004-11-26"),Persongender=Gender.Mal
 };
 }
 
+@{  //local function
+    double? GetAge(DateTime? dateOfBirth)
+    {
+        if(dateOfBirth is not null)
+        {
+            return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays/365.25);
+        }
+        else
+        {
+            return null;
+        }
+    }
+}
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -30,14 +44,15 @@ Name = "Pathan",DateOfBirth=DateTime.Parse("2004-11-26"),Persongender=Gender.Mal
 <body>
     <h1>Welcome</h1>
     @foreach (var person in people)
-    {
+    {   
+        @: Hello to
         <div>@person.Name
         <span>,</span>
         <span>@person.Persongender</span>
         @if (person.DateOfBirth != null)
         {
             <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
-
+            <span>@GetAge(person.DateOfBirth) Years Old</span>
         }
         </div>
 
