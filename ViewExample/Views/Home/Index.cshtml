@@ -1,36 +1,4 @@
 @using ViewExample.Models
-@{
-    string appTitle = "ASP .Net Core Application";
-    List<Person> people = new List<Person>
-{
-new Person(){
-Name = "Nehan",DateOfBirth=DateTime.Parse("2004-01-12"),Persongender=Gender.Male
-},
-
-new Person(){
-Name = "Khan",DateOfBirth=DateTime.Parse("2004-07-21"),Persongender=Gender.Female
-},
-
-new Person(){
-Name = "Pathan",DateOfBirth=DateTime.Parse("2004-11-26"),Persongender=Gender.Male
-}
-};
-}
-
-@{  //local function
-    double? GetAge(DateTime? dateOfBirth)
-    {
-        if(dateOfBirth is not null)
-        {
-            return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays/365.25);
-        }
-        else
-        {
-            return null;
-        }
-    }
-}
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -38,40 +6,35 @@ Name = "Pathan",DateOfBirth=DateTime.Parse("2004-11-26"),Persongender=Gender.Mal
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@appTitle</title>
+    <title>@ViewData["appTitle"]</title>
+    <link rel="stylesheet" href="~/StyleSheet.css">
 </head>
-
 <body>
-    <h1>Welcome</h1>
-    @foreach (var person in people)
-    {   
-        @: Hello to
-        <div>@person.Name
-        <span>,</span>
-        <span>@person.Persongender</span>
-        @if (person.DateOfBirth != null)
-        {
-            <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
-            <span>@GetAge(person.DateOfBirth) Years Old</span>
-        }
-        </div>
-
+    <div class="page-content">
+         <h1>Welcome</h1>
+    @{
+        List<Person>? people = (List<Person>)ViewData["people"];
     }
-    <br>
-    @for (int i = 0; i < 2; i++)
+    @foreach(Person person in  people)
     {
-        Person person = people[i];
-        <div>@person.Name
-        <span>,</span>
-        <span>@person.Persongender</span>
-        @if (person.DateOfBirth != null)
-        {
-            <span>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</span>
-
-        }
+        <div class="box float-left w-50">
+            <h3>@person.Name</h3>
+            <table class="table w-100">
+                <tbody>
+                    <tr>
+                        <td>Gender</td>
+                        <td>@person.Persongender</td>
+                    </tr>
+                    <tr>
+                        <td>Date Of Birth</td>
+                        <td>@person.DateOfBirth.Value.ToString("MM/dd/yyyy")</td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
-
-    }
+        }
+    </div>
+   
 
 </body>
 
