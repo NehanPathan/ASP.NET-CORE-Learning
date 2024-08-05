@@ -28,11 +28,38 @@ namespace ViewExample.Controllers
                     },
 
                     new Person(){
-                    Name = "Pathan",DateOfBirth=DateTime.Parse("2004-11-26"),Persongender=Gender.Male
+                    Name = "Pathan",DateOfBirth = null
+                    //DateOfBirth = DateTime.Parse("2004-11-26"),Persongender=Gender.Male
                     }
                 };
-                ViewData["people"] = people;
-            return View();
+                // ViewData["people"] = people;
+                // ViewBag.people = people;
+            return View("Index", people);
+        }
+
+         [Route("person-details/{name}")]
+          public IActionResult Detail(string? name)
+        {
+            if(name == null)
+            return Content("Person name can't be null");
+
+            List<Person> people = new List<Person>
+                {
+                    new Person(){
+                    Name = "Nehan",DateOfBirth=DateTime.Parse("2004-01-12"),Persongender=Gender.Male
+                    },
+
+                    new Person(){
+                    Name = "Khan",DateOfBirth=DateTime.Parse("2004-07-21"),Persongender=Gender.Female
+                    },
+
+                    new Person(){
+                    Name = "Pathan",DateOfBirth = null
+                    //DateOfBirth = DateTime.Parse("2004-11-26"),Persongender=Gender.Male
+                    }
+                };
+                Person? matchingPerson = people.Where(person => person.Name == name).FirstOrDefault();
+               return View(matchingPerson);
         }
 
     }

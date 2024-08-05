@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7k9kCT/9Iwk3Xg0VpgdLZ7iIac7IOdg9n3EhgvxFjNk=",
+  "Hash": "0KMmhWcZiUwT4EqZl2PluL4qxil8Aq1cSucL8bXnU2M=",
   "Source": "ViewExample",
   "BasePath": "_content/ViewExample",
   "Mode": "Default",
@@ -15,5 +15,25 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ViewExample\\wwwroot\\",
+      "BasePath": "_content/ViewExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
 }

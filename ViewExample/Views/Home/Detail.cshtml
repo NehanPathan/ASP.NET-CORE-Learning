@@ -1,40 +1,34 @@
 @using ViewExample.Models
-@model IEnumerable<Person>
+@model Person
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.appTitle</title>
+    <title>Document</title>
     <link rel="stylesheet" href="~/StyleSheet.css">
+
 </head>
 <body>
     <div class="page-content">
-         <h1>Welcome</h1>
-    @foreach(Person person in  Model)
-    {
-        <div class="box float-left w-50">
-            <h3>@person.Name</h3>
+         <h1>Person Details</h1>
+         <div class="box">
+            <h3>@Model.Name</h3>
             <table class="table w-100">
                 <tbody>
                     <tr>
                         <td>Gender</td>
-                        <td>@person.Persongender</td>
+                        <td>@Model.Persongender</td>
                     </tr>
                     <tr>
                         <td>Date Of Birth</td>
-                        <td>@person.DateOfBirth?.ToString("MM/dd/yyyy")</td>
+                        <td>@Model.DateOfBirth?.ToString("MM/dd/yyyy")</td>
                     </tr>
                 </tbody>
             </table>
-            <a href="/person-details/@person.Name">Details</a>
         </div>
-        }
-    </div>
-   
-
+        <a href="/home">Back to persons</a>
+        </div>
 </body>
-
 </html>
