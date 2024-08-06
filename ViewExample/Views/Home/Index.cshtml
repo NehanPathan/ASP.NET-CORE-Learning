@@ -1,4 +1,3 @@
-@using ViewExample.Models
 @model IEnumerable<Person>
 <!DOCTYPE html>
 <html lang="en">
@@ -10,30 +9,40 @@
     <title>@ViewBag.appTitle</title>
     <link rel="stylesheet" href="~/StyleSheet.css">
 </head>
+
 <body>
     <div class="page-content">
-         <h1>Welcome</h1>
-    @foreach(Person person in  Model)
-    {
-        <div class="box float-left w-50">
-            <h3>@person.Name</h3>
-            <table class="table w-100">
-                <tbody>
-                    <tr>
-                        <td>Gender</td>
-                        <td>@person.Persongender</td>
-                    </tr>
-                    <tr>
-                        <td>Date Of Birth</td>
-                        <td>@person.DateOfBirth?.ToString("MM/dd/yyyy")</td>
-                    </tr>
-                </tbody>
-            </table>
-            <a href="/person-details/@person.Name">Details</a>
-        </div>
+        <h1>Person</h1>
+        @foreach (Person person in Model)
+        {
+            <div class="box float-left w-50">
+                <h3>@person.Name</h3>
+                <table class="table w-100">
+                    <tbody>
+                        <tr>
+                            <td>Gender</td>
+                            <td>@person.Persongender</td>
+                        </tr>
+                        <tr>
+                            <td>Date Of Birth</td>
+                            <td>@person.DateOfBirth?.ToString("MM/dd/yyyy")</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div>
+                    <a href="/person-details/@person.Name">Details</a>
+                </div>
+
+
+            </div>
         }
+        <div>
+            <a href="/person-with-product">Person With Product</a>
+        </div>
+
     </div>
-   
+
 
 </body>
 

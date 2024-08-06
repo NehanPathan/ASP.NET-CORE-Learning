@@ -32,16 +32,16 @@ namespace ViewExample.Controllers
                     //DateOfBirth = DateTime.Parse("2004-11-26"),Persongender=Gender.Male
                     }
                 };
-                // ViewData["people"] = people;
-                // ViewBag.people = people;
+            // ViewData["people"] = people;
+            // ViewBag.people = people;
             return View("Index", people);
         }
 
-         [Route("person-details/{name}")]
-          public IActionResult Detail(string? name)
+        [Route("person-details/{name}")]
+        public IActionResult Detail(string? name)
         {
-            if(name == null)
-            return Content("Person name can't be null");
+            if (name == null)
+                return Content("Person name can't be null");
 
             List<Person> people = new List<Person>
                 {
@@ -58,8 +58,32 @@ namespace ViewExample.Controllers
                     //DateOfBirth = DateTime.Parse("2004-11-26"),Persongender=Gender.Male
                     }
                 };
-                Person? matchingPerson = people.Where(person => person.Name == name).FirstOrDefault();
-               return View(matchingPerson);
+            Person? matchingPerson = people.Where(person => person.Name == name).FirstOrDefault();
+            return View(matchingPerson); //Views/Home/Details.cshtml
+        }
+
+        [Route("person-with-product")]
+        public IActionResult PersonWithProduct()
+        {
+            Person person = new Person()
+            {
+                Name = "Dhruvii",
+                DateOfBirth = DateTime.Parse("2005-01-12"),
+                Persongender = Gender.Female
+            };
+
+            Product product = new Product()
+            {
+                ProductId = 1,
+                ProductName = "Air Conditioner"
+            };
+            PersonAndProductWrapperModel personAndProductWrapperModel = new PersonAndProductWrapperModel()
+            {
+                PersonData = person,
+                ProductData = product
+            };
+
+            return View(personAndProductWrapperModel);
         }
 
     }
