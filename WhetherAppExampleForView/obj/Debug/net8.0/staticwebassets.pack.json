@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\WhetherAppExampleForView\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WhetherAppExampleForView.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WhetherAppExampleForView.props",
+      "PackagePath": "build\\WhetherAppExampleForView.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WhetherAppExampleForView.props",
+      "PackagePath": "buildMultiTargeting\\WhetherAppExampleForView.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WhetherAppExampleForView.props",
+      "PackagePath": "buildTransitive\\WhetherAppExampleForView.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

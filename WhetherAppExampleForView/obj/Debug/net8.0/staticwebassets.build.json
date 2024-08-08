@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "jdWJ9VpAlFTJkPueO4jnguMDBmeEfUTuvgkTYQ4kDVQ=",
+  "Source": "WhetherAppExampleForView",
+  "BasePath": "_content/WhetherAppExampleForView",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WhetherAppExampleForView\\wwwroot",
+      "Source": "WhetherAppExampleForView",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\WhetherAppExampleForView\\wwwroot\\",
+      "BasePath": "_content/WhetherAppExampleForView",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\WhetherAppExampleForView\\wwwroot\\StyleSheet.css",
+      "SourceId": "WhetherAppExampleForView",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\WhetherAppExampleForView\\wwwroot\\",
+      "BasePath": "_content/WhetherAppExampleForView",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
