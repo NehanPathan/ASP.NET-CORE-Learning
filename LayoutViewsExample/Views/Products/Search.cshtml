@@ -1,5 +1,8 @@
 @{
-    Layout = "~/Views/Shared/_Layout.cshtml";
+    if(ViewBag.ProductId != null){
+
+    Layout = "~/Views/Shared/_ProductsLayout.cshtml";
+    }
     ViewData["Title"] = "Search Products";
 
 }
