@@ -1,7 +1,3 @@
-@{
-    Layout = "~/Views/Shared/_MasterLayout.cshtml";
-
-}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,11 +8,13 @@
 
 </head>
 <body>
-    <div class="flex full-size-height">
-        <div class="flex-1 grey-black">SideBar</div>
-        <div class="flex-3 white-black">
+
+        <div class="container">
+            <div class="header">ASP.NET core demo app</div>
+        </div>
+        <div>
             @RenderBody()
         </div>
-    </div>
+    
 </body>
 </html>
