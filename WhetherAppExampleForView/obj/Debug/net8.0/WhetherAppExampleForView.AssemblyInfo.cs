@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhetherAppExampleForView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a2e283b7af67e3119ec7fe7d79f9c6e9c1c8ea8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0189a4cff77deb1297911f7cb4feeca44b8576f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhetherAppExampleForView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhetherAppExampleForView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
