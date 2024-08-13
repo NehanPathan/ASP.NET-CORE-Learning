@@ -3,4 +3,15 @@
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab debitis maiores similique explicabo ipsum dolore dicta
    fuga tempore cupiditate atque, hic commodi perferendis repellendus eaque nisi quaerat vel reiciendis nam.</p>
 
-   @await Html.PartialAsync("_ListPartialView")
+@{
+   ListModel listModel = new ListModel();
+    listModel.ListTitle = "Languages";
+    listModel.ListItems = new List<string>()
+        {
+            "c",
+            "java",
+            "c#",
+            "python"
+        };
+        await Html.RenderPartialAsync("_ListPartialView",listModel);
+}
