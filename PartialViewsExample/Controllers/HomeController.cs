@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using PartialViewsExample.Models;
 
 namespace PartialViewsExample.Controllers
 {
@@ -13,7 +14,8 @@ namespace PartialViewsExample.Controllers
 
         [Route("/")]
         public IActionResult Index()
-        {   return View();
+        {
+            return View();
         }
         [Route("/about")]
         public IActionResult About()
@@ -21,6 +23,22 @@ namespace PartialViewsExample.Controllers
 
 
             return View();
+        }
+
+        [Route("/programming-languages")]
+        public IActionResult ProgrammingLanguages()
+        {
+            ListModel listModel = new ListModel();
+            listModel.ListTitle = "Programming Languages List";
+            listModel.ListItems = new List<string>()
+        {
+            "c",
+            "java",
+            "c#",
+            "python"
+        };
+
+            return PartialView("_ListPartialView", listModel);
         }
     }
 }
