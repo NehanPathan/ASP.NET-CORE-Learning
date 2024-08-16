@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhetherAppExampleForView", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutViewsExample", "..\..\LayoutViewsExample\LayoutViewsExample.csproj", "{FBD34A10-A509-4E48-9DCE-7D5D5313F3C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialViewsExample", "..\..\PartialViewsExample\PartialViewsExample.csproj", "{4176EE1B-2B7D-4850-86BE-406EBAA29C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewComponentsExample", "..\..\ViewComponentsExample\ViewComponentsExample.csproj", "{D2D74B0B-5400-43BB-8ADE-8D45287EA924}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{FBD34A10-A509-4E48-9DCE-7D5D5313F3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBD34A10-A509-4E48-9DCE-7D5D5313F3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBD34A10-A509-4E48-9DCE-7D5D5313F3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4176EE1B-2B7D-4850-86BE-406EBAA29C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4176EE1B-2B7D-4850-86BE-406EBAA29C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4176EE1B-2B7D-4850-86BE-406EBAA29C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4176EE1B-2B7D-4850-86BE-406EBAA29C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D74B0B-5400-43BB-8ADE-8D45287EA924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D74B0B-5400-43BB-8ADE-8D45287EA924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D74B0B-5400-43BB-8ADE-8D45287EA924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D74B0B-5400-43BB-8ADE-8D45287EA924}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
