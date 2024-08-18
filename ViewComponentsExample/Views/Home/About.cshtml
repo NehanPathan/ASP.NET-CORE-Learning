@@ -9,3 +9,19 @@ Dignissimos dolor dolorum quia blanditiis sequi, hic neque impedit ratione conse
 Suscipit provident odio soluta eveniet. Optio tempore aut reiciendis soluta repudiandae pariatur dicta porro id natus, voluptatem eligendi nisi doloribus obcaecati suscipit iure error molestias. Maxime maiores similique incidunt beatae?
 Officia temporibus obcaecati itaque ut ea optio. Repellendus magni ipsa aperiam voluptates sunt aspernatur suscipit expedita. Ducimus, eveniet? Tempore voluptates sit eos error earum officiis ratione cum impedit rem labore.
 Ut culpa adipisci dignissimos id animi, necessitatibus vero? Dignissimos blanditiis corporis voluptatum eveniet, cumque nobis ut deserunt illo inventore eos consectetur ipsum facilis quisquam aliquam ipsa, vero cum incidunt. Eius?</p>
+
+@{
+    PersonGridModel personGridModel = new PersonGridModel()
+            {
+                GridTitle = "Employee List",
+                Persons = new List<Person>(){
+                new Person() { PersonName = "Dhruvii", JobTitle = "Manager" },
+                new Person() { PersonName = "Aastha", JobTitle = "Developer" },
+                new Person() { PersonName = "Hemanshi", JobTitle = "ProductManager" },
+
+                }
+            };
+
+}
+
+<vc:grid grid="personGridModel"></vc:grid>
