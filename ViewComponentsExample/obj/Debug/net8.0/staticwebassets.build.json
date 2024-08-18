@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Mdn9QCwaF3jklGP0wgWf796adgogJmTWOZwoHGBMK8s=",
+  "Hash": "TTDcIcDxEfxSL/WTApBrdT77wcEBbSOSqorMkV9vqAs=",
   "Source": "ViewComponentsExample",
   "BasePath": "_content/ViewComponentsExample",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ViewComponentsExample\\wwwroot\\friends.js",
+      "SourceId": "ViewComponentsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ViewComponentsExample\\wwwroot\\",
+      "BasePath": "_content/ViewComponentsExample",
+      "RelativePath": "friends.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\friends.js"
+    },
     {
       "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ViewComponentsExample\\wwwroot\\StyleSheet.css",
       "SourceId": "ViewComponentsExample",

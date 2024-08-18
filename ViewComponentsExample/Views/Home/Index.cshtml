@@ -2,22 +2,6 @@
     ViewData["Title"] = "Index";
 }
 <h1>Home</h1>
-@{
-    
-    PersonGridModel personGridModel = new PersonGridModel()
-            {
-                GridTitle = "Person List",
-                Persons = new List<Person>(){
-                new Person() { PersonName = "John", JobTitle = "Manager" },
-                new Person() { PersonName = "Nehan", JobTitle = "Developer" },
-                new Person() { PersonName = "Pathan", JobTitle = "ProductManager" },
-
-                }
-            };
-
-}
-@* @await Component.InvokeAsync("Grid") *@
-@* or *@
-@await Component.InvokeAsync("Grid", new {
-    grid = personGridModel
-})
+<button class="button button-blue-back" id="load-friends-button">Load Friends</button>
+<div id="list"></div>
+<script src="friends.js"></script>
