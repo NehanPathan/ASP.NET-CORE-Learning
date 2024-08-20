@@ -10,3 +10,7 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\obj\Deb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\Services\obj\Debug\net8.0\Services.csproj.Up2Date

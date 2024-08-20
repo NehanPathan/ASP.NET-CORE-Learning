@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\diexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\diexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECA2AEED-BF4A-41E5-9E0A-27F74AE438AF}|Services\\Services.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECA2AEED-BF4A-41E5-9E0A-27F74AE438AF}|Services\\Services.csproj|solutionrelative:services\\citiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0837324-2C58-4E12-BB93-3333A48CC22A}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0837324-2C58-4E12-BB93-3333A48CC22A}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\diexample\\diexample\\diexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9535041-DEFA-4893-A5A3-481B7011B6C8}|DIExample\\DIExample.csproj|solutionrelative:diexample\\diexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,82 +42,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ICitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\ServiceContracts\\ICitiesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICitiesService.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\ServiceContracts\\ICitiesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICitiesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T01:02:46.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "DIExample\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "DIExample\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T00:56:31.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DIExample\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DIExample\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T01:36:43.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T01:36:43.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DIExample\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "DIExample\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T01:34:29.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T01:34:29.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DIExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DIExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T01:33:56.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DIExample",
+              "DocumentIndex": 7,
+              "Title": "DIExample.csproj",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\DIExample.csproj",
               "RelativeDocumentMoniker": "DIExample\\DIExample.csproj",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\DIExample.csproj",
               "RelativeToolTip": "DIExample\\DIExample.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-19T01:33:17.81Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T01:33:17.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CitiesService.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\Services\\CitiesService.cs",
               "RelativeDocumentMoniker": "Services\\CitiesService.cs",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\Services\\CitiesService.cs",
               "RelativeToolTip": "Services\\CitiesService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T01:24:14.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Program.cs",
               "RelativeDocumentMoniker": "DIExample\\Program.cs",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DIExample\\DIExample\\Program.cs",
               "RelativeToolTip": "DIExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T01:21:09.225Z",
               "EditorCaption": ""

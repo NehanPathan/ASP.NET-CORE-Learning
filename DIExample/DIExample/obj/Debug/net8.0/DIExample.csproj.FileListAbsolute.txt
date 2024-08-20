@@ -31,3 +31,5 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\DIExample\obj\De
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\DIExample\obj\Debug\net8.0\DIExample.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\DIExample\obj\Debug\net8.0\DIExample.genruntimeconfig.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\DIExample\obj\Debug\net8.0\ref\DIExample.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\DIExample\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DIExample\DIExample\bin\Debug\net8.0\ServiceContracts.pdb

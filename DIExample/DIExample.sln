@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIExample", "DIExample\DIExample.csproj", "{B9535041-DEFA-4893-A5A3-481B7011B6C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIExample", "DIExample\DIExample.csproj", "{B9535041-DEFA-4893-A5A3-481B7011B6C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{ECA2AEED-BF4A-41E5-9E0A-27F74AE438AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{ECA2AEED-BF4A-41E5-9E0A-27F74AE438AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceContracts", "ServiceContracts\ServiceContracts.csproj", "{A0837324-2C58-4E12-BB93-3333A48CC22A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{ECA2AEED-BF4A-41E5-9E0A-27F74AE438AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECA2AEED-BF4A-41E5-9E0A-27F74AE438AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECA2AEED-BF4A-41E5-9E0A-27F74AE438AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0837324-2C58-4E12-BB93-3333A48CC22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0837324-2C58-4E12-BB93-3333A48CC22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0837324-2C58-4E12-BB93-3333A48CC22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0837324-2C58-4E12-BB93-3333A48CC22A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
