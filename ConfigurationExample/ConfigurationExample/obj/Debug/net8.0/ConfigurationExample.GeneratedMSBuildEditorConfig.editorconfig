@@ -17,3 +17,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\ConfigurationExample\ConfigurationExample
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/patha/OneDrive/Desktop/ASP.NET Core Practice/ConfigurationExample/ConfigurationExample/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

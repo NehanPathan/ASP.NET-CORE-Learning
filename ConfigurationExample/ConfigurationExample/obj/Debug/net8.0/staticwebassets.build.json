@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "F8FXWW6ar/57xogWrezx3wPPbsg5VWJvhfe2Z1H7i/c=",
+  "Hash": "zUvoDG96iEAbMnx4JMxJVPSvijvpYaSnB1D+AmU8jUA=",
   "Source": "ConfigurationExample",
   "BasePath": "_content/ConfigurationExample",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigurationExample\\wwwroot",
+      "Source": "ConfigurationExample",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ConfigurationExample\\ConfigurationExample\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ConfigurationExample\\ConfigurationExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "ConfigurationExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\ConfigurationExample\\ConfigurationExample\\wwwroot\\",
+      "BasePath": "_content/ConfigurationExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
 }
