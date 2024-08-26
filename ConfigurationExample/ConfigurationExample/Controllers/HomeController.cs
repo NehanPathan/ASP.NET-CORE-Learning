@@ -22,10 +22,23 @@ namespace ConfigurationExample.Controllers
             // ViewBag.ClientId = _configuration["weatherapi:ClientId"];
             // ViewBag.ClientSecret = _configuration.GetValue("weatherapi:ClientSecret","the default ClientSecret value");
 
-            IConfiguration weatherapi = _configuration.GetSection("weatherapi");
+            // IConfiguration weatherapi = _configuration.GetSection("weatherapi");
 
-             ViewBag.ClientId = weatherapi["ClientId"];
-            ViewBag.ClientSecret = weatherapi.GetValue("ClientSecret","the default ClientSecret value");
+            //  ViewBag.ClientId = weatherapi["ClientId"];
+            // ViewBag.ClientSecret = weatherapi.GetValue("ClientSecret","the default ClientSecret value");
+
+
+            //Get : Loads configuration values into new Options object
+            // WeatherApiOptions options = _configuration.GetSection("weatherapi").Get<WeatherApiOptions>();
+
+            //Bind : Loads configuration values into existing Options object
+            WeatherApiOptions options = new WeatherApiOptions();
+            _configuration.GetSection("weatherapi").Bind(options);
+
+
+             ViewBag.ClientId = options.ClientId;
+            ViewBag.ClientSecret = options.ClientSecret;
+
 
             return View();
         }
