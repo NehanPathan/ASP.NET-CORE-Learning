@@ -27,3 +27,4 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\ConfigurationExample\Confi
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\ConfigurationExample\ConfigurationExample\obj\Debug\net8.0\ConfigurationExample.RazorAssemblyInfo.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\ConfigurationExample\ConfigurationExample\obj\Debug\net8.0\ConfigurationExample.RazorAssemblyInfo.cs
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\ConfigurationExample\ConfigurationExample\bin\Debug\net8.0\ConfigurationExample.staticwebassets.runtime.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\ConfigurationExample\ConfigurationExample\bin\Debug\net8.0\MyOwnConfig.json
