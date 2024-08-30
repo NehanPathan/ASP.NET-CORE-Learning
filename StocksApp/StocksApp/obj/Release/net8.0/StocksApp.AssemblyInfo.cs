@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("73bd3c01-9016-46a4-9270-c8c0f5e4db8c")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("StocksApp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e733e151dda8354a061662f99b5dea98bffd8711")]
 [assembly: System.Reflection.AssemblyProductAttribute("StocksApp")]
