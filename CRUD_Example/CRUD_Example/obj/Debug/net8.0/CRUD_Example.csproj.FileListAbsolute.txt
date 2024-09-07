@@ -25,3 +25,13 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\obj\Debug\net8.0\CRUD_Example.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\obj\Debug\net8.0\CRUD_Example.genruntimeconfig.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\obj\Debug\net8.0\ref\CRUD_Example.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\bin\Debug\net8.0\Entities.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\bin\Debug\net8.0\Services.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\bin\Debug\net8.0\Entities.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\bin\Debug\net8.0\Services.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\obj\Debug\net8.0\CRUD_Example.csproj.AssemblyReference.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\obj\Debug\net8.0\CRUD_Example.RazorAssemblyInfo.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\obj\Debug\net8.0\CRUD_Example.RazorAssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example\obj\Debug\net8.0\CRUD_Exa.8D0F1CE5.Up2Date
