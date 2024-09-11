@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using ServiceContracts;
 using ServiceContracts.DTO;
@@ -105,6 +106,7 @@ namespace CRUD_Example.Controllers
             return View(personUpdateRequest);
         }
 
+
         [HttpPost]
         [Route("[action]/{personID}")]
         public IActionResult Edit(PersonUpdateRequest personUpdateRequest)
@@ -128,8 +130,32 @@ namespace CRUD_Example.Controllers
                 new SelectListItem() { Text = temp.CountryName, Value = temp.CountryID.ToString() });
 
                 ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
-                return View();
+                return View(personResponse.ToPersonUpdateRequest());
             }
+        }
+
+
+        [HttpGet]
+        [Route("[action]/{personID}")]
+        public IActionResult Delete(Guid? personID)
+        {
+            PersonResponse? personResponse = _personsService.GetPersonByPersonID(personID);
+            if (personResponse == null)
+                return RedirectToAction("Index");
+
+            return View(personResponse);
+        }
+
+        [HttpPost]
+        [Route("[action]/{personID}")]
+        public IActionResult Delete(PersonUpdateRequest personUpdateResult)
+        {
+            PersonResponse? personResponse = _personsService.GetPersonByPersonID(personUpdateResult.PersonID);
+            if (personResponse == null)
+                return RedirectToAction("Index");
+
+            _personsService.DeletePerson(personUpdateResult.PersonID);
+            return RedirectToAction("Index");
         }
     }
 }
