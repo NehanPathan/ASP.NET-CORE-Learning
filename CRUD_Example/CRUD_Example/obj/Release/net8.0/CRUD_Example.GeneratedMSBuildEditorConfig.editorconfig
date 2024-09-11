@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\CRUD_Example\CRUD_Example
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/patha/OneDrive/Desktop/ASP.NET Core Practice/CRUD_Example/CRUD_Example/Views/Persons/Create - Copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xDcmVhdGUgLSBDb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/patha/OneDrive/Desktop/ASP.NET Core Practice/CRUD_Example/CRUD_Example/Views/Persons/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
