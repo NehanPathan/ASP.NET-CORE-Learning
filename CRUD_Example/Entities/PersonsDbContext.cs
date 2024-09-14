@@ -35,5 +35,9 @@ namespace Entities
             foreach (Person person in persons)
                 modelBuilder.Entity<Person>().HasData(person);
         }
+        public List<Person> sp_GetAllPersons()
+        {
+            return Persons.FromSqlRaw("EXECUTE [dbo].[getAllPersons]").ToList();
+        }
     }
 }
