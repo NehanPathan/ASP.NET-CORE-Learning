@@ -10,6 +10,7 @@ using Xunit.Abstractions;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
+using EntityFrameworkCoreMock;
 
 namespace CRUDTests
 {
@@ -23,9 +24,19 @@ namespace CRUDTests
     //constructor
     public PersonsServiceTest(ITestOutputHelper testOutputHelper)
     {
-      _countriesService = new CountriesService(new PersonsDbContext(new DbContextOptionsBuilder<PersonsDbContext>().Options));
+            var countriesInitialData = new List<Country>() { };
+            var personsInitialData = new List<Person>() { };
 
-      _personService = new PersonsService(new PersonsDbContext(new DbContextOptionsBuilder<PersonsDbContext>().Options), _countriesService);
+            DbContextMock<ApplicationDbContext> dbContextMock = new DbContextMock<ApplicationDbContext>(new DbContextOptionsBuilder<ApplicationDbContext>().Options);
+
+            ApplicationDbContext dbContext = dbContextMock.Object;
+            dbContextMock.CreateDbSetMock(temp => temp.Countries, countriesInitialData);
+            dbContextMock.CreateDbSetMock(temp => temp.Persons, personsInitialData);
+
+
+            _countriesService = new CountriesService(dbContext);
+
+      _personService = new PersonsService(dbContext, _countriesService);
       
       _testOutputHelper = testOutputHelper;
     }

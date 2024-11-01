@@ -1,0 +1,16 @@
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.sourcelink.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceC.04662A29.Up2Date
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
