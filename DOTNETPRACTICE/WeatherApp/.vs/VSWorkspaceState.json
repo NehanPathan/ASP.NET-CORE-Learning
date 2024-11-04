@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CRUDTests"
   ],
-  "SelectedNode": "\\CRUDSolution.sln",
+  "SelectedNode": "\\CRUDTests\\PersonsServiceTest.cs",
   "PreviewInSolutionExplorer": false
 }
