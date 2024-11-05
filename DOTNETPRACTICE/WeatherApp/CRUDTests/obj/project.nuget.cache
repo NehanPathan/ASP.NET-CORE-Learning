@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7ly0EeLPeSM=",
+  "dgSpecHash": "zCGAQPWKqKQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDTests\\CRUDTests.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\patha\\.nuget\\packages\\entityframeworkcoremock.moq\\2.4.0\\entityframeworkcoremock.moq.2.4.0.nupkg.sha512",
     "C:\\Users\\patha\\.nuget\\packages\\entityframeworkcoremock.shared\\2.4.0\\entityframeworkcoremock.shared.2.4.0.nupkg.sha512",
     "C:\\Users\\patha\\.nuget\\packages\\fare\\2.1.1\\fare.2.1.1.nupkg.sha512",
+    "C:\\Users\\patha\\.nuget\\packages\\fluentassertions\\6.12.1\\fluentassertions.6.12.1.nupkg.sha512",
     "C:\\Users\\patha\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\patha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\patha\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
