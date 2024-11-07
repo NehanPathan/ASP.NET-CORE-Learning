@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CRUDTests"
+    "\\CRUDTests",
+    "\\Repositories",
+    "\\Services"
   ],
-  "SelectedNode": "\\CRUDTests\\PersonsServiceTest.cs",
+  "SelectedNode": "\\Services\\CountriesService.cs",
   "PreviewInSolutionExplorer": false
 }

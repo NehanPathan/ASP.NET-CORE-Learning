@@ -71,3 +71,5 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\obj\Debug\net6.0\CRUDExample.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\obj\Debug\net6.0\CRUDExample.genruntimeconfig.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\obj\Debug\net6.0\ref\CRUDExample.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\RepositoryContracts.pdb
