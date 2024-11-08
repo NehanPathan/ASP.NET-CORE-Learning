@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
       "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\StyleSheet.css",
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },

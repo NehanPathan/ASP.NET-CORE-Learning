@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Repositories
-build_property.ProjectDir = C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\09. Invoke Repository in Service - Part 2\Repositories\
+build_property.ProjectDir = C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\Repositories\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
