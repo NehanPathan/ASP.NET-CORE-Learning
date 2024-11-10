@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\dotnetpractice\\weatherapp\\crudexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\dotnetpractice\\weatherapp\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\dotnetpractice\\weatherapp\\crudtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personscontrollerintegrationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\dotnetpractice\\weatherapp\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\dotnetpractice\\weatherapp\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28AA24FC-78D2-4B88-9D99-0201792CD3AA}|CRUDTests\\CRUDTests.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\dotnetpractice\\weatherapp\\crudtests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +74,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CRUDExample\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\appsettings.Development.json",
+              "RelativeToolTip": "CRUDExample\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T16:46:14.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\Views\\Persons\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
@@ -82,38 +99,36 @@
               "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T18:18:49.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T18:18:49.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\Program.cs",
               "RelativeToolTip": "CRUDExample\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T17:55:14.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CRUDExample",
+              "DocumentIndex": 5,
+              "Title": "CRUDExample.csproj",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\CRUDExample.csproj",
               "RelativeDocumentMoniker": "CRUDExample\\CRUDExample.csproj",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\CRUDExample.csproj",
               "RelativeToolTip": "CRUDExample\\CRUDExample.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-09T17:53:32.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T17:53:32.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CustomWebApplicationFactory.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDTests\\CustomWebApplicationFactory.cs",
               "RelativeDocumentMoniker": "CRUDTests\\CustomWebApplicationFactory.cs",
@@ -121,12 +136,11 @@
               "RelativeToolTip": "CRUDTests\\CustomWebApplicationFactory.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T17:47:20.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T17:47:20.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PersonsControllerIntegrationTest.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDTests\\PersonsControllerIntegrationTest.cs",
               "RelativeDocumentMoniker": "CRUDTests\\PersonsControllerIntegrationTest.cs",
@@ -139,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PersonsControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDTests\\PersonsControllerTest.cs",
               "RelativeDocumentMoniker": "CRUDTests\\PersonsControllerTest.cs",
@@ -147,12 +161,11 @@
               "RelativeToolTip": "CRUDTests\\PersonsControllerTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T16:09:43.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T16:09:43.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "PersonsService.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Services\\PersonsService.cs",
               "RelativeDocumentMoniker": "Services\\PersonsService.cs",
@@ -160,12 +173,11 @@
               "RelativeToolTip": "Services\\PersonsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T16:22:31.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T16:22:31.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CountriesService.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Services\\CountriesService.cs",
               "RelativeDocumentMoniker": "Services\\CountriesService.cs",
@@ -173,12 +185,11 @@
               "RelativeToolTip": "Services\\CountriesService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T16:21:32.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T16:21:32.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PersonsRepository.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Repositories\\PersonsRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\PersonsRepository.cs",
@@ -186,12 +197,11 @@
               "RelativeToolTip": "Repositories\\PersonsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:09:32.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:09:32.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CountriesRepository.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Repositories\\CountriesRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CountriesRepository.cs",
@@ -199,12 +209,11 @@
               "RelativeToolTip": "Repositories\\CountriesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:08:42.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T16:08:42.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IPersonsRepository.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\RepositoryContracts\\IPersonsRepository.cs",
               "RelativeDocumentMoniker": "RepositoryContracts\\IPersonsRepository.cs",
@@ -212,12 +221,11 @@
               "RelativeToolTip": "RepositoryContracts\\IPersonsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:55:29.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T15:55:29.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ICountriesRepository.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\RepositoryContracts\\ICountriesRepository.cs",
               "RelativeDocumentMoniker": "RepositoryContracts\\ICountriesRepository.cs",
@@ -225,12 +233,11 @@
               "RelativeToolTip": "RepositoryContracts\\ICountriesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:54:01.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T15:54:01.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PersonsServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDTests\\PersonsServiceTest.cs",
               "RelativeDocumentMoniker": "CRUDTests\\PersonsServiceTest.cs",
@@ -238,12 +245,11 @@
               "RelativeToolTip": "CRUDTests\\PersonsServiceTest.cs",
               "ViewState": "AgIAABECAAAAAAAAAAAswCsCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T16:40:51.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T16:40:51.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Entities\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Entities\\ApplicationDbContext.cs",
@@ -251,12 +257,11 @@
               "RelativeToolTip": "Entities\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T16:31:28.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T16:31:28.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CountriesServiceTest.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDTests\\CountriesServiceTest.cs",
               "RelativeDocumentMoniker": "CRUDTests\\CountriesServiceTest.cs",
@@ -264,8 +269,7 @@
               "RelativeToolTip": "CRUDTests\\CountriesServiceTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAACBjwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T16:26:07.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T16:26:07.255Z"
             }
           ]
         }
