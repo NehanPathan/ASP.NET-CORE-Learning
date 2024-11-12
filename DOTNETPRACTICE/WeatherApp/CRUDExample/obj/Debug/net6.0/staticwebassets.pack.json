@@ -1,27 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "Id": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
       "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
     },
     {
-      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "Id": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\StyleSheet.css",
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {
-      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\jquery.min.js",
+      "Id": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\jquery.min.js",
       "PackagePath": "staticwebassets\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "Id": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "Id": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\logo.png",
+      "Id": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample\\wwwroot\\logo.png",
       "PackagePath": "staticwebassets\\logo.png"
     },
     {
