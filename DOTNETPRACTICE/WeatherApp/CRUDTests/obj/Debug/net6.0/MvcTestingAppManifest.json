@@ -1,8 +1,8 @@
 {
-  "CRUDExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample",
-  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Entities",
-  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Repositories",
-  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\RepositoryContracts",
-  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\ServiceContracts",
-  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "c:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Services"
+  "CRUDExample, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\CRUDExample",
+  "Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Entities",
+  "Repositories, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Repositories",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\RepositoryContracts",
+  "ServiceContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\ServiceContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\DOTNETPRACTICE\\WeatherApp\\Services"
 }

@@ -83,7 +83,6 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Newtonsoft.Json.dll
@@ -92,3 +91,12 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Repositories.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Repositories.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\obj\Debug\net6.0\CRUDExample.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\WeatherApp\CRUDExample\bin\Debug\net6.0\Serilog.Sinks.File.dll

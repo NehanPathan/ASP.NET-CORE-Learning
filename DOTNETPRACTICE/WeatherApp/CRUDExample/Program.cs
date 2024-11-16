@@ -4,15 +4,16 @@ using Microsoft.EntityFrameworkCore;
 using Entities;
 using RepositoryContracts;
 using Repositories;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//Logging
-builder.Host.ConfigureLogging(loggingProvider => {
-loggingProvider.ClearProviders();
-loggingProvider.AddConsole();
-loggingProvider.AddDebug();
-loggingProvider.AddEventLog();
+//Serilog
+builder.Host.UseSerilog((HostBuilderContext context, IServiceProvider services, LoggerConfiguration loggerConfiguration) => {
+
+    loggerConfiguration
+    .ReadFrom.Configuration(context.Configuration) //read configuration settings from built-in IConfiguration
+    .ReadFrom.Services(services); //read out current app's services and make them available to serilog
 });
 
 
@@ -27,13 +28,13 @@ builder.Services.AddScoped<IPersonsService, PersonsService>();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 
 builder.Services.AddHttpLogging(options =>
 {
-options.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.RequestProperties | Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.ResponsePropertiesAndHeaders;
+    options.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.RequestProperties | Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.ResponsePropertiesAndHeaders;
 });
 
 var app = builder.Build();
@@ -41,7 +42,7 @@ var app = builder.Build();
 //create application pipeline
 if (builder.Environment.IsDevelopment())
 {
-app.UseDeveloperExceptionPage();
+    app.UseDeveloperExceptionPage();
 }
 
 app.UseHttpLogging();
@@ -53,15 +54,8 @@ app.UseHttpLogging();
 //app.Logger.LogCritical("critical-message");
 
 if (builder.Environment.IsEnvironment("Test") == false)
-Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", wkhtmltopdfRelativePath: "Rotativa");
+    Rotativa.AspNetCore.RotativaConfiguration.Setup("wwwroot", wkhtmltopdfRelativePath: "Rotativa");
 
-app.UseStaticFiles();
-app.UseRouting();
-app.MapControllers();
-
-app.Run();
-
-public partial class Program { } //make the auto-generated Program accessible programmatically
 app.UseStaticFiles();
 app.UseRouting();
 app.MapControllers();
