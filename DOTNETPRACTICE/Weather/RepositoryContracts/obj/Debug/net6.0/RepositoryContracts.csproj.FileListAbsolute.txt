@@ -1,0 +1,32 @@
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.deps.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.AssemblyReference.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfoInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.sourcelink.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\Reposito.28D4BA81.Up2Date
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\refint\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\RepositoryContracts\obj\Debug\net6.0\ref\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.deps.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\bin\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.AssemblyReference.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfoInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.AssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.sourcelink.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\Reposito.28D4BA81.Up2Date
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\refint\RepositoryContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\RepositoryContracts.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DOTNETPRACTICE\Weather\RepositoryContracts\obj\Debug\net6.0\ref\RepositoryContracts.dll

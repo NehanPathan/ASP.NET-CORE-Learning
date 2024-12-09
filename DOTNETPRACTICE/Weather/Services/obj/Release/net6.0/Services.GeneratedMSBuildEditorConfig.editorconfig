@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Services
-build_property.ProjectDir = C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\
+build_property.ProjectDir = C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\DotNet\AspNetCore-SourceCode\18. xUnit Advanced - Moq and Repository\12. Mock Repository - Part 3\Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
