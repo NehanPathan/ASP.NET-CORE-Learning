@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CRUDExample"
+    "\\CRUDExample",
+    "\\CRUDExample\\Controllers"
   ],
-  "SelectedNode": "\\CRUDExample\\appsettings.json",
+  "SelectedNode": "\\CRUDExample\\Controllers\\PersonsController.cs",
   "PreviewInSolutionExplorer": false
 }
