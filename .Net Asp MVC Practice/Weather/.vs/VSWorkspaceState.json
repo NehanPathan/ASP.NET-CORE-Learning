@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\CRUDExample",
-    "\\CRUDExample\\Controllers"
+    "\\CRUDExample\\Controllers",
+    "\\CRUDExample\\Filters",
+    "\\CRUDExample\\Filters\\ResourceFilters"
   ],
-  "SelectedNode": "\\CRUDExample\\Controllers\\PersonsController.cs",
+  "SelectedNode": "\\CRUDExample\\Filters\\ResourceFilters\\FeatureDisabledResouceFilter.cs",
   "PreviewInSolutionExplorer": false
 }
