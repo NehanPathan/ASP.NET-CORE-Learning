@@ -6,6 +6,6 @@
     "\\CRUDExample\\Filters",
     "\\CRUDExample\\Filters\\ResourceFilters"
   ],
-  "SelectedNode": "\\CRUDExample\\Filters\\ResourceFilters\\FeatureDisabledResouceFilter.cs",
+  "SelectedNode": "\\CRUDExample\\Controllers\\PersonsController.cs",
   "PreviewInSolutionExplorer": false
 }
