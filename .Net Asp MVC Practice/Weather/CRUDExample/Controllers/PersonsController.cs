@@ -1,5 +1,6 @@
 ﻿using CRUDExample.Filters.ActionFilters;
 using CRUDExample.Filters.AuthorizationFilters;
+using CRUDExample.Filters.ExceptionFilters;
 using CRUDExample.Filters.ResourceFilters;
 using CRUDExample.Filters.ResultFilters;
 using Microsoft.AspNetCore.Mvc;
@@ -13,6 +14,7 @@ namespace CRUDExample.Controllers
 {
     [Route("[controller]")]
     [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Controller", "My-Value-From-Controller", 3 },Order = 3)]
+    [TypeFilter(typeof(HandleExceptionFilter))]
     public class PersonsController : Controller
     {
         //private fields
@@ -87,7 +89,7 @@ namespace CRUDExample.Controllers
 
         [HttpGet]
         [Route("[action]/{personID}")] //Eg: /persons/edit/1
-        [TypeFilter(typeof(TokenResultFilter))]
+        //[TypeFilter(typeof(TokenResultFilter))]
 
         public async Task<IActionResult> Edit(Guid personID)
         {
@@ -111,6 +113,7 @@ namespace CRUDExample.Controllers
         [Route("[action]/{personID}")]
         [TypeFilter(typeof(PersonCreateAndEditPostActionFilter))]
         [TypeFilter(typeof(TokenAuthorizationFilter))]
+        [TypeFilter(typeof(PeronAlwaysRunResultFilter))]
 
         public async Task<IActionResult> Edit(PersonUpdateRequest personRequest)
         {
