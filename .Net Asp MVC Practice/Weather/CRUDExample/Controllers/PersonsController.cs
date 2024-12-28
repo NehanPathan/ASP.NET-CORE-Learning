@@ -1,4 +1,5 @@
-﻿using CRUDExample.Filters.ActionFilters;
+﻿using CRUDExample.Filters;
+using CRUDExample.Filters.ActionFilters;
 using CRUDExample.Filters.AuthorizationFilters;
 using CRUDExample.Filters.ExceptionFilters;
 using CRUDExample.Filters.ResourceFilters;
@@ -15,6 +16,8 @@ namespace CRUDExample.Controllers
     [Route("[controller]")]
     [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "My-Key-From-Controller", "My-Value-From-Controller", 3 },Order = 3)]
     [TypeFilter(typeof(HandleExceptionFilter))]
+    [TypeFilter(typeof(PeronAlwaysRunResultFilter))]
+
     public class PersonsController : Controller
     {
         //private fields
@@ -33,10 +36,12 @@ namespace CRUDExample.Controllers
         //Url: persons/index
         [Route("[action]")]
         [Route("/")]
-        [TypeFilter(typeof(PersonsListActionFilter), Order = 4)]
-        [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "MyKey-FromAction", "MyValue-From-Action", 1 },Order = 1)]
+        [ServiceFilter(typeof(PersonsListActionFilter), Order = 4)]
+        //[TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "MyKey-FromAction", "MyValue-From-Action", 1 },Order = 1)]
+        [ResponseHeaderActionFilter("MyKey-FromAction", "MyValue-From-Action", 1)]
 
         [TypeFilter(typeof(PersonsListResultFilter))]
+        [SkipFilter]
 
         public async Task<IActionResult> Index(string searchBy, string? searchString, string sortBy = nameof(PersonResponse.PersonName), SortOrderOptions sortOrder = SortOrderOptions.ASC)
         {
@@ -59,7 +64,7 @@ namespace CRUDExample.Controllers
         //Url: persons/create
         [Route("[action]")]
         [HttpGet]
-        [TypeFilter(typeof(ResponseHeaderActionFilter), Arguments = new object[] { "my-key", "my-value", 4})]
+        [ResponseHeaderActionFilter("my-key", "my-value", 4)]
         public async Task<IActionResult> Create()
         {
             List<CountryResponse> countries = await _countriesService.GetAllCountries();
@@ -113,7 +118,6 @@ namespace CRUDExample.Controllers
         [Route("[action]/{personID}")]
         [TypeFilter(typeof(PersonCreateAndEditPostActionFilter))]
         [TypeFilter(typeof(TokenAuthorizationFilter))]
-        [TypeFilter(typeof(PeronAlwaysRunResultFilter))]
 
         public async Task<IActionResult> Edit(PersonUpdateRequest personRequest)
         {

@@ -24,7 +24,7 @@ builder.Services.AddControllersWithViews(options => {
 
     var logger = builder.Services.BuildServiceProvider().GetRequiredService<ILogger<ResponseHeaderActionFilter>>();
 
-    options.Filters.Add(new ResponseHeaderActionFilter(logger, "My-Key-From-Global", "My-Value-From-Global",2));
+    options.Filters.Add(new ResponseHeaderActionFilter("My-Key-From-Global", "My-Value-From-Global",2));
 });
 
 //add services into IoC container
@@ -33,6 +33,9 @@ builder.Services.AddScoped<IPersonsRepository, PersonsRepository>();
 
 builder.Services.AddScoped<ICountriesService, CountriesService>();
 builder.Services.AddScoped<IPersonsService, PersonsService>();
+
+builder.Services.AddTransient<PersonsListActionFilter>();
+
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
@@ -44,6 +47,7 @@ builder.Services.AddHttpLogging(options =>
 {
     options.LoggingFields = Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.RequestProperties | Microsoft.AspNetCore.HttpLogging.HttpLoggingFields.ResponsePropertiesAndHeaders;
 });
+
 
 var app = builder.Build();
 
