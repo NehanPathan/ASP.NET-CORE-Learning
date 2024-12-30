@@ -4,8 +4,9 @@
     "\\CRUDExample",
     "\\CRUDExample\\Controllers",
     "\\CRUDExample\\Filters",
+    "\\CRUDExample\\Filters\\ActionFilters",
     "\\CRUDExample\\Filters\\ResourceFilters"
   ],
-  "SelectedNode": "\\CRUDExample\\Controllers\\PersonsController.cs",
+  "SelectedNode": "\\CRUDExample\\Filters\\ActionFilters\\ResponseHeaderActionFilter.cs",
   "PreviewInSolutionExplorer": false
 }
