@@ -7,6 +7,6 @@
     "\\CRUDExample\\Filters\\ActionFilters",
     "\\CRUDExample\\Filters\\ResourceFilters"
   ],
-  "SelectedNode": "\\CRUDExample\\Filters\\ActionFilters\\ResponseHeaderActionFilter.cs",
+  "SelectedNode": "\\CRUDExample\\Controllers\\PersonsController.cs",
   "PreviewInSolutionExplorer": false
 }

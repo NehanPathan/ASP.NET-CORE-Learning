@@ -5,33 +5,32 @@ namespace CRUDExample.Filters.ActionFilters
     public class ResponseHeaderFilterFactoryAttribute : Attribute, IFilterFactory
     {
         public bool IsReusable => false;
-        private string? Key { get; set; }
-        private string? Value { get; set; }
-        private int Order { get; set; }
+        private readonly string? _key;
+        private readonly string? _value;
+        private readonly int _order;
 
         public ResponseHeaderFilterFactoryAttribute(string key, string value, int order)
         {
-            Key = key;
-            Value = value;
-            Order = order;
+            _key = key;
+            _value = value;
+            _order = order;
         }
 
-        //Controller -> FilterFactory -> Filter
         public IFilterMetadata CreateInstance(IServiceProvider serviceProvider)
         {
             var filter = serviceProvider.GetRequiredService<ResponseHeaderActionFilter>();
-            filter.Key = Key;
-            filter.Value = Value;
-            filter.Order = Order;
-            //return filter object
+            filter.Key = _key;
+            filter.Value = _value;
+            filter.Order = _order;
+
             return filter;
         }
     }
 
     public class ResponseHeaderActionFilter : IAsyncActionFilter, IOrderedFilter
     {
-        public string Key { get; set; }
-        public string Value { get; set; }
+        public string? Key { get; set; }
+        public string? Value { get; set; }
         public int Order { get; set; }
         private readonly ILogger<ResponseHeaderActionFilter> _logger;
 
@@ -44,11 +43,14 @@ namespace CRUDExample.Filters.ActionFilters
         {
             _logger.LogInformation("Before logic - ResponseHeaderActionFilter");
 
-            await next(); //calls the subsequent filter or action method
+            await next(); // calls the subsequent filter or action method
 
-            _logger.LogInformation("Before logic - ResponseHeaderActionFilter");
+            _logger.LogInformation("After logic - ResponseHeaderActionFilter");
 
-            context.HttpContext.Response.Headers[Key] = Value;
+            if (!string.IsNullOrEmpty(Key) && !string.IsNullOrEmpty(Value))
+            {
+                context.HttpContext.Response.Headers[Key] = Value;
+            }
         }
     }
 }
