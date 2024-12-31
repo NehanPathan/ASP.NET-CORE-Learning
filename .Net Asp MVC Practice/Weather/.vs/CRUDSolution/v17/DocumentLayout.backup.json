@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\weather\\crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\weather\\crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\weather\\crudexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\weather\\crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C89440C-E190-47BD-9CE1-235F4E5B9AFB}|CRUDExample\\CRUDExample.csproj|solutionrelative:crudexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,11 +78,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T16:49:18.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T16:42:49.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "CRUDExample\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "CRUDExample\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-31T16:41:25.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SkipFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\SkipFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\SkipFilter.cs",
@@ -78,25 +129,24 @@
               "RelativeToolTip": "CRUDExample\\Filters\\SkipFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T16:21:53.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T16:21:53.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Program.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Program.cs",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Program.cs",
               "RelativeToolTip": "CRUDExample\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T16:24:41.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Controllers\\PersonsController.cs",
@@ -104,12 +154,11 @@
               "RelativeToolTip": "CRUDExample\\Controllers\\PersonsController.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAAwLwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:27:43.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T16:27:43.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PeronAlwaysRunResultFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\ResultFilters\\PeronAlwaysRunResultFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\ResultFilters\\PeronAlwaysRunResultFilter.cs",
@@ -121,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CRUDExample\\Properties\\launchSettings.json",
@@ -133,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ResponseHeaderActionFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\ActionFilters\\ResponseHeaderActionFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\ActionFilters\\ResponseHeaderActionFilter.cs",
@@ -141,12 +190,11 @@
               "RelativeToolTip": "CRUDExample\\Filters\\ActionFilters\\ResponseHeaderActionFilter.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAUwB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:50:52.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T15:50:52.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "TokenAuthorizationFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\AuthorizationFilters\\TokenAuthorizationFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\AuthorizationFilters\\TokenAuthorizationFilter.cs",
@@ -158,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "HandleExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\ExceptionFilters\\HandleExceptionFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\ExceptionFilters\\HandleExceptionFilter.cs",
@@ -170,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\appsettings.json",
               "RelativeDocumentMoniker": "CRUDExample\\appsettings.json",
@@ -182,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "PersonsListResultFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\ResultFilters\\PersonsListResultFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\ResultFilters\\PersonsListResultFilter.cs",
@@ -194,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "FeatureDisabledResourceFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\ResourceFilters\\FeatureDisabledResourceFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\ResourceFilters\\FeatureDisabledResourceFilter.cs",
@@ -206,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "TokenResultFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\ResultFilters\\TokenResultFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\ResultFilters\\TokenResultFilter.cs",
@@ -218,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "PersonCreateAndEditPostActionFilter.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Filters\\ActionFilters\\PersonCreateAndEditPostActionFilter.cs",
               "RelativeDocumentMoniker": "CRUDExample\\Filters\\ActionFilters\\PersonCreateAndEditPostActionFilter.cs",
@@ -230,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\Views\\Persons\\Create.cshtml",
               "RelativeDocumentMoniker": "CRUDExample\\Views\\Persons\\Create.cshtml",
