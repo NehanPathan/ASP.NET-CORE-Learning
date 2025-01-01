@@ -5,8 +5,10 @@
     "\\CRUDExample\\Controllers",
     "\\CRUDExample\\Filters",
     "\\CRUDExample\\Filters\\ActionFilters",
-    "\\CRUDExample\\Filters\\ResourceFilters"
+    "\\CRUDExample\\Filters\\ResourceFilters",
+    "\\CRUDExample\\Views",
+    "\\CRUDExample\\Views\\Persons"
   ],
-  "SelectedNode": "\\CRUDExample\\Program.cs",
+  "SelectedNode": "\\CRUDExample\\Views\\Persons\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
