@@ -7,6 +7,7 @@ using Repositories;
 //using Serilog;
 using CRUDExample.Filters.ActionFilters;
 using CRUDExample;
+using CRUDExample.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,6 +29,10 @@ var app = builder.Build();
 if (builder.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
+}
+else
+{
+    app.UseExceptionHandlingMiddleware();
 }
 
 app.UseHttpLogging();

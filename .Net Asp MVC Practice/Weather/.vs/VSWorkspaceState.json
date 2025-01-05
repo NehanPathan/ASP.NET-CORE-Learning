@@ -6,9 +6,8 @@
     "\\CRUDExample\\Filters",
     "\\CRUDExample\\Filters\\ActionFilters",
     "\\CRUDExample\\Filters\\ResourceFilters",
-    "\\CRUDExample\\Views",
-    "\\CRUDExample\\Views\\Persons"
+    "\\CRUDExample\\Filters\\ResultFilters"
   ],
-  "SelectedNode": "\\CRUDExample\\Views\\Persons\\Index.cshtml",
+  "SelectedNode": "\\CRUDExample\\Filters\\ResultFilters\\PersonsListResultFilter.cs",
   "PreviewInSolutionExplorer": false
 }
