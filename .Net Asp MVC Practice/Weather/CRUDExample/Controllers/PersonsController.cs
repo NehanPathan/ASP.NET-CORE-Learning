@@ -96,7 +96,7 @@ namespace CRUDExample.Controllers
 
         [HttpGet]
         [Route("[action]/{personID}")] //Eg: /persons/edit/1
-        //[TypeFilter(typeof(TokenResultFilter))]
+        [TypeFilter(typeof(TokenResultFilter))]
 
         public async Task<IActionResult> Edit(Guid personID)
         {

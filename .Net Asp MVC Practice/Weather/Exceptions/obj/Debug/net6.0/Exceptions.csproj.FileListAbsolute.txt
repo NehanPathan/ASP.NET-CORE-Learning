@@ -1,0 +1,12 @@
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\bin\Debug\net6.0\Exceptions.deps.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\bin\Debug\net6.0\Exceptions.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\bin\Debug\net6.0\Exceptions.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\Exceptions.AssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\Exceptions.sourcelink.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\Exceptions.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\refint\Exceptions.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\Exceptions.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Exceptions\obj\Debug\net6.0\ref\Exceptions.dll

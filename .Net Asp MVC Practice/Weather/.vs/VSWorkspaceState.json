@@ -6,8 +6,10 @@
     "\\CRUDExample\\Filters",
     "\\CRUDExample\\Filters\\ActionFilters",
     "\\CRUDExample\\Filters\\ResourceFilters",
-    "\\CRUDExample\\Filters\\ResultFilters"
+    "\\CRUDExample\\Filters\\ResultFilters",
+    "\\CRUDExample\\Middleware",
+    "\\Services"
   ],
-  "SelectedNode": "\\CRUDExample\\Filters\\ResultFilters\\PersonsListResultFilter.cs",
+  "SelectedNode": "\\CRUDSolution.sln",
   "PreviewInSolutionExplorer": false
 }

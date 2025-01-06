@@ -3599,6 +3599,16 @@
           "bin/placeholder/Entities.dll": {}
         }
       },
+      "Exceptions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Exceptions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Exceptions.dll": {}
+        }
+      },
       "Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3646,6 +3656,7 @@
         "dependencies": {
           "CsvHelper": "27.2.1",
           "EPPlus": "6.0.6",
+          "Exceptions": "1.0.0",
           "RepositoryContracts": "1.0.0",
           "ServiceContracts": "1.0.0"
         },
@@ -10006,6 +10017,11 @@
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
     },
+    "Exceptions/1.0.0": {
+      "type": "project",
+      "path": "../Exceptions/Exceptions.csproj",
+      "msbuildProject": "../Exceptions/Exceptions.csproj"
+    },
     "Repositories/1.0.0": {
       "type": "project",
       "path": "../Repositories/Repositories.csproj",
@@ -10030,6 +10046,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Entities >= 1.0.0",
+      "Exceptions >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
       "Repositories >= 1.0.0",
@@ -10074,6 +10091,9 @@
           "projectReferences": {
             "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\Exceptions\\Exceptions.csproj": {
+              "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\Exceptions\\Exceptions.csproj"
             },
             "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\Repositories\\Repositories.csproj": {
               "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\Repositories\\Repositories.csproj"
