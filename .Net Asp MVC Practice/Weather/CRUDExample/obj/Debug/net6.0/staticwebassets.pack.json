@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {
+      "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\wwwroot\\error.svg",
+      "PackagePath": "staticwebassets\\error.svg"
+    },
+    {
       "Id": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\wwwroot\\jquery.min.js",
       "PackagePath": "staticwebassets\\jquery.min.js"
     },

@@ -42,8 +42,10 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weat
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Services.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Services.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Exceptions.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\RepositoryContracts.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Exceptions.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\RepositoryContracts.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\ServiceContracts.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Entities.pdb
@@ -58,5 +60,3 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weat
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\obj\Debug\net6.0\refint\Services.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\obj\Debug\net6.0\Services.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\obj\Debug\net6.0\ref\Services.dll
-C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Exceptions.dll
-C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Weather\Services\bin\Debug\net6.0\Exceptions.pdb

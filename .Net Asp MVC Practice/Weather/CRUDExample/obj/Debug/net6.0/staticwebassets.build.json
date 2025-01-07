@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iTsa8ehq3fnkBMAlhhHhwPuICCFkFQOEVnDdGLUxMJo=",
+  "Hash": "kgYnYou2q1HuiZXVjVSwHkq6CuQ47jS4EkuyLhN9KZU=",
   "Source": "CRUDExample",
   "BasePath": "_content/CRUDExample",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\wwwroot\\error.svg",
+      "SourceId": "CRUDExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\wwwroot\\",
+      "BasePath": "_content/CRUDExample",
+      "RelativePath": "error.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\error.svg"
+    },
     {
       "Identity": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\Weather\\CRUDExample\\wwwroot\\jquery.min.js",
       "SourceId": "CRUDExample",

@@ -10,6 +10,6 @@
     "\\CRUDExample\\Middleware",
     "\\Services"
   ],
-  "SelectedNode": "\\CRUDSolution.sln",
+  "SelectedNode": "\\CRUDExample\\Controllers\\PersonsController.cs",
   "PreviewInSolutionExplorer": false
 }
