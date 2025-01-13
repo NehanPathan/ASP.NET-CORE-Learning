@@ -8,8 +8,9 @@
     "\\CRUDExample\\Filters\\ResourceFilters",
     "\\CRUDExample\\Filters\\ResultFilters",
     "\\CRUDExample\\Middleware",
+    "\\ServiceContracts",
     "\\Services"
   ],
-  "SelectedNode": "\\CRUDExample\\Controllers\\PersonsController.cs",
+  "SelectedNode": "\\ServiceContracts\\IPersonsGetterService.cs",
   "PreviewInSolutionExplorer": false
 }

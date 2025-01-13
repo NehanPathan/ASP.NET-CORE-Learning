@@ -82,6 +82,10 @@
             "Rotativa.AspNetCore": {
               "target": "Package",
               "version": "[1.2.0, )"
+            },
+            "SerilogTimings": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [

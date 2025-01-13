@@ -22,7 +22,7 @@ namespace CRUDTests
  public class PersonsServiceTest
  {
   //private fields
-  private readonly IPersonsService _personService;
+  private readonly IPersonsGetterService _personService;
   private readonly ICountriesService _countriesService;
 
   private readonly Mock<IPersonsRepository> _personRepositoryMock;
