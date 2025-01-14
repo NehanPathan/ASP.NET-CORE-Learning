@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\CRUDExample",
-    "\\CRUDExample\\Controllers",
     "\\CRUDExample\\Filters",
     "\\CRUDExample\\Filters\\ActionFilters",
     "\\CRUDExample\\Filters\\ResourceFilters",
     "\\CRUDExample\\Filters\\ResultFilters",
     "\\CRUDExample\\Middleware",
+    "\\CRUDExample\\StartupExtensions",
     "\\ServiceContracts",
     "\\Services"
   ],
-  "SelectedNode": "\\ServiceContracts\\IPersonsGetterService.cs",
+  "SelectedNode": "\\CRUDExample\\StartupExtensions\\ConfigureServicesExtension.cs",
   "PreviewInSolutionExplorer": false
 }

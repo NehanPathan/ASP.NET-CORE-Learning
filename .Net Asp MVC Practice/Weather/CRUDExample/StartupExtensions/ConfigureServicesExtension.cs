@@ -34,7 +34,13 @@ namespace CRUDExample
             services.AddScoped<IPersonsRepository, PersonsRepository>();
 
             services.AddScoped<ICountriesService, CountriesService>();
-            services.AddScoped<IPersonsGetterService, PersonsGetterService>();
+
+            // Explicit registration for PersonsGetterService
+            services.AddScoped<PersonsGetterService>();
+
+            // Use PersonsGetterServiceWithFewExcelFields for IPersonsGetterService
+            services.AddScoped<IPersonsGetterService, PersonsGetterServiceWithFewExcelFields>();
+
             services.AddScoped<IPersonsAdderService, PersonsAdderService>();
             services.AddScoped<IPersonsUpdaterService, PersonsUpdaterService>();
             services.AddScoped<IPersonsSorterService, PersonsSorterService>();
