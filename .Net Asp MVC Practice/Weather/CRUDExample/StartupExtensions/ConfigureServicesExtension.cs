@@ -35,11 +35,10 @@ namespace CRUDExample
 
             services.AddScoped<ICountriesService, CountriesService>();
 
-            // Explicit registration for PersonsGetterService
-            services.AddScoped<PersonsGetterService>();
-
-            // Use PersonsGetterServiceWithFewExcelFields for IPersonsGetterService
             services.AddScoped<IPersonsGetterService, PersonsGetterServiceWithFewExcelFields>();
+            //services.AddScoped<IPersonsGetterService, PersonsGetterServiceChild>();
+            services.AddScoped<PersonsGetterService, PersonsGetterService>();
+
 
             services.AddScoped<IPersonsAdderService, PersonsAdderService>();
             services.AddScoped<IPersonsUpdaterService, PersonsUpdaterService>();
