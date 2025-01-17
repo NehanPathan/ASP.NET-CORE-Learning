@@ -1,0 +1,13 @@
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.deps.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\bin\Debug\net6.0\ContactsManager.Core.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.AssemblyReference.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfoInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.AssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.sourcelink.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\refint\ContactsManager.Core.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ContactsManager.Core.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.Core\obj\Debug\net6.0\ref\ContactsManager.Core.dll
