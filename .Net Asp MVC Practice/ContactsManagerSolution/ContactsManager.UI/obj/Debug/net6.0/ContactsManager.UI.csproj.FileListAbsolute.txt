@@ -104,3 +104,8 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Cont
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\ContactsManager.UI.csproj.AssemblyReference.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\ContactsManager.UI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\obj\Debug\net6.0\Contacts.7B959ECC.Up2Date
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

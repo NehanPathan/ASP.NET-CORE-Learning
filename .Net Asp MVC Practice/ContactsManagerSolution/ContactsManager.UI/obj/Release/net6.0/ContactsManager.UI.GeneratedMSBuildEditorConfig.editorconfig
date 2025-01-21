@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/patha/OneDrive/Desktop/ASP.NET Core Practice/.Net Asp MVC Practice/ContactsManagerSolution/ContactsManager.UI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/patha/OneDrive/Desktop/ASP.NET Core Practice/.Net Asp MVC Practice/ContactsManagerSolution/ContactsManager.UI/Views/Countries/UploadFromExcel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyaWVzXFVwbG9hZEZyb21FeGNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
