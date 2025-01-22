@@ -1,5 +1,8 @@
-﻿using CRUDExample.Filters.ActionFilters;
+﻿using ContactsManager.Core.Domain.IdentityEntities;
+using CRUDExample.Filters.ActionFilters;
 using Entities;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Repositories;
 using RepositoryContracts;
@@ -46,7 +49,16 @@ namespace CRUDExample
             services.AddScoped<IPersonsDeleterService, PersonsDeleterService>();
 
             services.AddTransient<PersonsListActionFilter>();
+            //Enable Identity in this project
+            services.AddIdentity<ApplicationUser, ApplicationRole>()
 
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+
+                .AddDefaultTokenProviders()
+
+                .AddUserStore<UserStore<ApplicationUser, ApplicationRole, ApplicationDbContext, Guid>>()
+
+                .AddRoleStore<RoleStore<ApplicationRole, ApplicationDbContext, Guid>>();  
 
             services.AddDbContext<ApplicationDbContext>(options =>
             {

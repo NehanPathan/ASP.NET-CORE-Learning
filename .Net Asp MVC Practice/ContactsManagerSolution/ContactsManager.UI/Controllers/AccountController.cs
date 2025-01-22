@@ -1,5 +1,7 @@
-﻿using ContactsManager.Core.DTO;
+﻿using ContactsManager.Core.Domain.IdentityEntities;
+using ContactsManager.Core.DTO;
 using CRUDExample.Controllers;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ContactsManager.UI.Controllers
@@ -7,6 +9,12 @@ namespace ContactsManager.UI.Controllers
     [Route("[controller]/[action]")]
     public class AccountController : Controller
     {
+        private readonly UserManager<ApplicationUser> _userManager;
+
+        public AccountController(UserManager<ApplicationUser> userManager)
+        {
+            _userManager = userManager;
+        }
         [HttpGet]
         public IActionResult Register()
         {
@@ -14,11 +22,36 @@ namespace ContactsManager.UI.Controllers
         }
 
         [HttpPost]
-        public IActionResult Register(RegisterDTO registerDTO)
-        {
-            //TO DO: Store user registration details into Identity database
+        public async Task<IActionResult> Register(RegisterDTO registerDTO)
+        { 
+            //Check for validation errors
+            if (!ModelState.IsValid) {
+                ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage);
+                return View(registerDTO);
+            }
+            ApplicationUser user = new ApplicationUser
+            {
+                UserName = registerDTO.Email,
+                Email = registerDTO.Email,
+                PhoneNumber = registerDTO.Phone,
+                PersonName = registerDTO.PersonName
+            };
+            IdentityResult result = await _userManager.CreateAsync(user, registerDTO.Password);
 
-            return RedirectToAction(nameof(PersonsController.Index), "Persons");
-        }
+            if (result.Succeeded)
+            {
+
+                return RedirectToAction(nameof(PersonsController.Index), "Persons");
+            }
+            else
+            {
+                foreach (IdentityError error in result.Errors)
+                {
+                    ModelState.AddModelError("Register", error.Description);
+                }
+                return View(registerDTO);
+            }
+
+            }
     }
 }

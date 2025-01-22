@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ContactsManager.ServiceTests"
+    "\\ContactsManager.ServiceTests",
+    "\\ContactsManager.UI",
+    "\\ContactsManager.UI\\Controllers"
   ],
   "SelectedNode": "\\ContactsManagerSolution.sln",
   "PreviewInSolutionExplorer": false
