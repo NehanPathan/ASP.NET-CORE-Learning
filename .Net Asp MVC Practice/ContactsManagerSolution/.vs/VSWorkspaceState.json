@@ -3,7 +3,8 @@
     "",
     "\\ContactsManager.ServiceTests",
     "\\ContactsManager.UI",
-    "\\ContactsManager.UI\\Controllers"
+    "\\ContactsManager.UI\\Controllers",
+    "\\ContactsManager.UI\\StartupExtensions"
   ],
   "SelectedNode": "\\ContactsManagerSolution.sln",
   "PreviewInSolutionExplorer": false

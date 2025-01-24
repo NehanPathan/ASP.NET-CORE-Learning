@@ -3,8 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862409A1-4840-4C0E-B575-4F22909E0569}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862409A1-4840-4C0E-B575-4F22909E0569}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactsDatabase/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,31 +42,24 @@
       "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\countries\\uploadfromexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862409A1-4840-4C0E-B575-4F22909E0569}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{862409A1-4840-4C0E-B575-4F22909E0569}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\startupextensions\\configureservicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAEC3B0C-F771-4AE4-AFB1-9316BABD2AE3}|ContactsManager.UI\\ContactsManager.UI.csproj|solutionrelative:contactsmanager.ui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89D9E9BE-C178-4CEB-BC35-5836F87C2E1E}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.infrastructure\\migrations\\20250122164245_identitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89D9E9BE-C178-4CEB-BC35-5836F87C2E1E}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|solutionrelative:contactsmanager.infrastructure\\migrations\\20250122164245_identitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactsDatabase/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{862409A1-4840-4C0E-B575-4F22909E0569}|ContactsManager.Core\\ContactsManager.Core.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862409A1-4840-4C0E-B575-4F22909E0569}|ContactsManager.Core\\ContactsManager.Core.csproj|solutionrelative:contactsmanager.core\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89D9E9BE-C178-4CEB-BC35-5836F87C2E1E}|ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\.net asp mvc practice\\contactsmanagersolution\\contactsmanager.infrastructure\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,89 +101,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Index.cshtml",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Index.cshtml*",
-              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T16:02:33.348Z",
+              "WhenOpened": "2025-01-24T16:03:50.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\LoginDTO.cs*",
+              "RelativeToolTip": "ContactsManager.Core\\DTO\\LoginDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:02:30.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
               "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Edit.cshtml*",
-              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Edit.cshtml*",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T16:02:26.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T16:02:26.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
               "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Delete.cshtml*",
-              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Delete.cshtml*",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T16:02:02.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Create.cshtml",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Create.cshtml",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Create.cshtml*",
-              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T16:01:29.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UploadFromExcel.cshtml",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml*",
-              "RelativeToolTip": "ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T16:00:30.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T16:02:02.429Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
-              "RelativeToolTip": "ContactsManager.UI\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T15:32:33.162Z",
-              "EditorCaption": ""
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T16:01:29.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "UploadFromExcel.cshtml",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Countries\\UploadFromExcel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T16:00:30.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
@@ -183,51 +187,73 @@
               "RelativeToolTip": "ContactsManager.UI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T15:24:56.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T15:24:56.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ConfigureServicesExtension.cs",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "RelativeToolTip": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA0wDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:09:39.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "ContactsManager.UI\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Controllers\\AccountController.cs",
               "RelativeToolTip": "ContactsManager.UI\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAuwCsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T16:00:00.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml*",
-              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Register.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T15:51:12.952Z",
+              "WhenOpened": "2025-01-23T16:02:33.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigureServicesExtension.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "RelativeToolTip": "ContactsManager.UI\\StartupExtensions\\ConfigureServicesExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:09:39.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Program.cs",
+              "RelativeToolTip": "ContactsManager.UI\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T15:32:33.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ContactsManager.UI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T15:51:12.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20250122164245_IdentityTable.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20250122164245_IdentityTable.cs",
               "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\Migrations\\20250122164245_IdentityTable.cs",
@@ -235,12 +261,11 @@
               "RelativeToolTip": "ContactsManager.Infrastructure\\Migrations\\20250122164245_IdentityTable.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAA0wDoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:42:45.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:42:45.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "RegisterDTO.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Core\\DTO\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
@@ -248,12 +273,11 @@
               "RelativeToolTip": "ContactsManager.Core\\DTO\\RegisterDTO.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA2wCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:44:14.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T15:44:14.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "dbo.AspNetUsers.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactsDatabase/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContactsDatabase/True/SqlTable/dbo.AspNetUsers.sql",
@@ -262,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\DbContext\\ApplicationDbContext.cs",
@@ -274,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ApplicationRole.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationRole.cs",
               "RelativeDocumentMoniker": "ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationRole.cs",
@@ -286,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ContactsManager.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
               "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\ContactsManager.Infrastructure.csproj",
@@ -298,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ContactsManager.UI\\Views\\_ViewImports.cshtml",
@@ -310,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ContactsManager.Core\\Domain\\IdentityEntities\\ApplicationUser.cs",
@@ -322,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ContactsManager.ServiceTests.csproj",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
               "RelativeDocumentMoniker": "ContactsManager.ServiceTests\\ContactsManager.ServiceTests.csproj",
@@ -334,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20250117182426_Initial.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.Infrastructure\\Migrations\\20250117182426_Initial.cs",
               "RelativeDocumentMoniker": "ContactsManager.Infrastructure\\Migrations\\20250117182426_Initial.cs",
@@ -346,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\ContactsManagerSolution\\ContactsManager.UI\\appsettings.json",
               "RelativeDocumentMoniker": "ContactsManager.UI\\appsettings.json",
