@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Diagnostics;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CRUDExample.Controllers
 {
     public class HomeController : Controller
     {
+        [AllowAnonymous]
         [Route("Error")]
         public IActionResult Error()
         {

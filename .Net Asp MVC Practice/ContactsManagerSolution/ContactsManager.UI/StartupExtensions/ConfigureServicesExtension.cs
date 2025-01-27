@@ -1,6 +1,7 @@
 ﻿using ContactsManager.Core.Domain.IdentityEntities;
 using CRUDExample.Filters.ActionFilters;
 using Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -49,6 +50,14 @@ namespace CRUDExample
             services.AddScoped<IPersonsDeleterService, PersonsDeleterService>();
 
             services.AddTransient<PersonsListActionFilter>();
+
+            services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
+            });
+ 
+
+
             //Enable Identity in this project
             services.AddIdentity<ApplicationUser, ApplicationRole>(options =>
             {
@@ -68,11 +77,17 @@ namespace CRUDExample
 
                 .AddRoleStore<RoleStore<ApplicationRole, ApplicationDbContext, Guid>>();  
 
-            services.AddDbContext<ApplicationDbContext>(options =>
+            services.AddAuthorization(options =>
             {
-                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"));
+                options.FallbackPolicy = new AuthorizationPolicyBuilder()
+                    .RequireAuthenticatedUser()
+                    .Build(); //enforce authentication for all controllers
             });
 
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LoginPath = "/Account/Login";
+            });
 
             services.AddHttpLogging(options =>
             {
