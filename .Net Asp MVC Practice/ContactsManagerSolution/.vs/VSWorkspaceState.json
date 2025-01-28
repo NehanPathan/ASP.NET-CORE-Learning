@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ContactsManager.Infrastructure",
     "\\ContactsManager.ServiceTests",
     "\\ContactsManager.UI",
     "\\ContactsManager.UI\\Controllers",

@@ -8,6 +8,7 @@ using Repositories;
 using CRUDExample.Filters.ActionFilters;
 using CRUDExample;
 using CRUDExample.Middleware;
+using Microsoft.AspNetCore.Builder;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -47,7 +48,19 @@ app.UseRouting();//Identifying action method to be called based on URL
 app.UseAuthentication(); //Reading Identity cookies and populating User object
 app.UseAuthorization(); //Checking if user is authorized to access the resource
 app.MapControllers(); //Excute the filter pipeline (action + filters)
+app.UseEndpoints(endpoints => {
+    endpoints.MapControllerRoute(
+     name: "areas",
+     pattern: "{area:exists}/{controller=Home}/{action=Index}");
 
+    //Admin/Home/Index
+    //Admin
+
+    endpoints.MapControllerRoute(
+     name: "default",
+     pattern: "{controller}/{action}/{id?}"
+     );
+});
 app.Run();
 
 public partial class Program { } //make the auto-generated Program accessible programmatically

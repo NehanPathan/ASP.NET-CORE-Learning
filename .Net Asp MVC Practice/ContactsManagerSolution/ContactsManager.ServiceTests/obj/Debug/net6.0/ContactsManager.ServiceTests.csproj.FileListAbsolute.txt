@@ -183,3 +183,10 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Cont
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\System.Security.Permissions.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Microsoft.AspNetCore.Antiforgery.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Microsoft.AspNetCore.Html.Abstractions.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+c:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\ContactsManagerSolution\ContactsManager.ServiceTests\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
