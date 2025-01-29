@@ -36,6 +36,8 @@ else
     app.UseExceptionHandler("/Error");
     app.UseExceptionHandlingMiddleware();
 }
+app.UseHsts();
+app.UseHttpsRedirection();
 
 app.UseHttpLogging();
 

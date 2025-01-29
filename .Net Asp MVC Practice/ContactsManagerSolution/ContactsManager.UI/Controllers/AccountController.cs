@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace ContactsManager.UI.Controllers
 {
     //[Route("[controller]/[action]")]
-    [AllowAnonymous]
+    //[AllowAnonymous]
     public class AccountController : Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
@@ -25,6 +25,7 @@ namespace ContactsManager.UI.Controllers
 
 
         [HttpGet]
+        [Authorize("NotAuthenticated")]
         public IActionResult Register()
         {
             return View();
@@ -32,6 +33,8 @@ namespace ContactsManager.UI.Controllers
 
 
         [HttpPost]
+        [Authorize("NotAuthenticated")]
+        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> Register(RegisterDTO registerDTO)
         {
             //Check for validation errors
@@ -58,6 +61,11 @@ namespace ContactsManager.UI.Controllers
                 }
                 else
                 {
+                    if (await _roleManager.FindByNameAsync(UserTypeOptions.User.ToString()) is null)
+                    {
+                        ApplicationRole applicationRole = new ApplicationRole() { Name = UserTypeOptions.User.ToString() };
+                        await _roleManager.CreateAsync(applicationRole);
+                    }
                     await _userManager.AddToRoleAsync(user, UserTypeOptions.User.ToString());
                 }
                 //Sign in
@@ -79,6 +87,7 @@ namespace ContactsManager.UI.Controllers
 
 
         [HttpGet]
+        [Authorize("NotAuthenticated")]
         public IActionResult Login()
         {
             return View();
@@ -86,6 +95,7 @@ namespace ContactsManager.UI.Controllers
 
 
         [HttpPost]
+        [Authorize("NotAuthenticated")]
         public async Task<IActionResult> Login(LoginDTO loginDTO, string? ReturnUrl)
         {
             if (!ModelState.IsValid)
@@ -119,7 +129,7 @@ namespace ContactsManager.UI.Controllers
             return View(loginDTO);
         }
 
-
+        [Authorize]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();

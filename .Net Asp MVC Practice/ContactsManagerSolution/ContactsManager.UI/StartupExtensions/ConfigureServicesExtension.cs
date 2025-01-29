@@ -4,6 +4,7 @@ using Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Repositories;
 using RepositoryContracts;
@@ -31,6 +32,7 @@ namespace CRUDExample
                     Value = "My-Value-From-Global",
                     Order = 2
                 });
+                options.Filters.Add(new AutoValidateAntiforgeryTokenAttribute());
             });
 
             //add services into IoC container
@@ -82,6 +84,14 @@ namespace CRUDExample
                 options.FallbackPolicy = new AuthorizationPolicyBuilder()
                     .RequireAuthenticatedUser()
                     .Build(); //enforce authentication for all controllers
+
+                options.AddPolicy("NotAuthenticated", policy =>
+                {
+                    policy.RequireAssertion( context =>
+                    {
+                        return !context.User.Identity.IsAuthenticated;
+                    });
+                }); 
             });
 
             services.ConfigureApplicationCookie(options =>
