@@ -17,7 +17,7 @@ namespace CitiesManager.WebAPI.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.3")
+                .HasAnnotation("ProductVersion", "8.0.12")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -29,6 +29,7 @@ namespace CitiesManager.WebAPI.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("CityName")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("CityID");
@@ -38,52 +39,52 @@ namespace CitiesManager.WebAPI.Migrations
                     b.HasData(
                         new
                         {
-                            CityID = new Guid("e1d798ff-2dd7-4e30-a95e-57c5b85d2b09"),
+                            CityID = new Guid("4c3b926a-e4f2-4b8a-975e-450dc8c6a05a"),
                             CityName = "New York"
                         },
                         new
                         {
-                            CityID = new Guid("4bd0883f-7bb9-4be6-b77a-888c730313fb"),
+                            CityID = new Guid("bce7df34-6967-4ce3-bc7a-b93e46276851"),
                             CityName = "Los Angeles"
                         },
                         new
                         {
-                            CityID = new Guid("417942f9-0522-4d1f-b986-18a1d5a732d9"),
+                            CityID = new Guid("a16b099c-6de8-4983-87ef-d23a3aade4dd"),
                             CityName = "Chicago"
                         },
                         new
                         {
-                            CityID = new Guid("270abbdd-3d39-442c-add2-6cb0523a109d"),
+                            CityID = new Guid("23a91d2d-6d76-4f5d-afbd-22f6f6e524d0"),
                             CityName = "Houston"
                         },
                         new
                         {
-                            CityID = new Guid("be8b8228-13a7-4dfc-b1d9-2edaf32a1b06"),
+                            CityID = new Guid("de0fe150-bd1f-4532-a8d1-f069470d5467"),
                             CityName = "Phoenix"
                         },
                         new
                         {
-                            CityID = new Guid("612ce742-88aa-4947-9c0e-c1fd90f098d5"),
+                            CityID = new Guid("4f41ee7b-0b81-4892-8106-6dd848f87172"),
                             CityName = "Philadelphia"
                         },
                         new
                         {
-                            CityID = new Guid("d3676f25-23b4-456c-b12a-0341ed4416b3"),
+                            CityID = new Guid("948ea9c6-5cc2-463e-a58e-b08387556fe9"),
                             CityName = "San Antonio"
                         },
                         new
                         {
-                            CityID = new Guid("803f07dc-a072-4c4d-ad0a-da9c2e397575"),
+                            CityID = new Guid("93c49eb2-47dd-47bd-b873-ea4aa9f18506"),
                             CityName = "San Diego"
                         },
                         new
                         {
-                            CityID = new Guid("1a672668-ef24-4a31-bd0f-2bcff92a3cca"),
+                            CityID = new Guid("7bce0658-134d-45d3-92c6-d5851ceb5f71"),
                             CityName = "Dallas"
                         },
                         new
                         {
-                            CityID = new Guid("3b66aa9d-c90b-4388-8304-0b53d84ec88b"),
+                            CityID = new Guid("199af6c4-3945-4038-b642-60402632afe9"),
                             CityName = "San Jose"
                         });
                 });
