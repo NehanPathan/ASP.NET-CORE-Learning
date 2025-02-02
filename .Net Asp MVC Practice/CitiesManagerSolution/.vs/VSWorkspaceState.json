@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\CitiesManager.WebAPI",
+    "\\CitiesManager.WebAPI\\Controllers",
     "\\CitiesManager.WebAPI\\Migrations"
   ],
-  "SelectedNode": "\\CitiesManagerSolution.sln",
+  "SelectedNode": "\\CitiesManager.WebAPI\\Controllers\\CitiesController.cs",
   "PreviewInSolutionExplorer": false
 }
