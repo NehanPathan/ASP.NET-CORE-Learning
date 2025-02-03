@@ -260,3 +260,5 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\Citi
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\api.xml
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\.Net Asp MVC Practice\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
