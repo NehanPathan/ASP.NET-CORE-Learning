@@ -528,3 +528,9 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSo
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.pdb
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.genruntimeconfig.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\ref\CitiesManager.WebAPI.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\angular.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\package-lock.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\package.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\tsconfig.app.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\tsconfig.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\tsconfig.spec.json
