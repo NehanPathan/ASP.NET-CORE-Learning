@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj": {}
+    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj": {
+    "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
         "projectName": "CitiesManager.WebAPI",
-        "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
+        "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj",
         "packagesPath": "C:\\Users\\patha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\.Net Asp MVC Practice\\CitiesManagerSolution\\CitiesManager.WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

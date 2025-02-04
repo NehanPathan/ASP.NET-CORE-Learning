@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -13,7 +12,6 @@ using Asp.Versioning;
 namespace CitiesManager.WebAPI.Controllers.v1
 {
     [ApiVersion("1.0")]
-
     public class CitiesController : CustomControllerBase
     {
         private readonly ApplicationDbContext _context;
@@ -25,7 +23,7 @@ namespace CitiesManager.WebAPI.Controllers.v1
 
         // GET: api/Cities
         /// <summary>
-        /// To get list of cities (including cityID and cityName) from the 'Cities' table
+        /// To get list of cities (including city ID and city name) from 'cities' table
         /// </summary>
         /// <returns></returns>
         [HttpGet]

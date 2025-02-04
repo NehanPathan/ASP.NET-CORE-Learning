@@ -5,6 +5,6 @@
     "\\CitiesManager.WebAPI\\Controllers",
     "\\CitiesManager.WebAPI\\Migrations"
   ],
-  "SelectedNode": "\\CitiesManagerSolution.sln",
+  "SelectedNode": "\\CitiesManager.WebAPI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

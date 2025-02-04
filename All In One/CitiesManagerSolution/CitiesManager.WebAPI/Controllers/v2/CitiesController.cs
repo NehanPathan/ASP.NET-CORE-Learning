@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -13,7 +12,6 @@ using Asp.Versioning;
 namespace CitiesManager.WebAPI.Controllers.v2
 {
     [ApiVersion("2.0")]
-
     public class CitiesController : CustomControllerBase
     {
         private readonly ApplicationDbContext _context;
@@ -25,12 +23,11 @@ namespace CitiesManager.WebAPI.Controllers.v2
 
         // GET: api/Cities
         /// <summary>
-        /// To get list of cities (only cityName) from the 'Cities' table
+        /// To get list of cities (only city name) from 'cities' table
         /// </summary>
         /// <returns></returns>
         [HttpGet]
-        //[Produces("application/xml")]
-        public async Task<ActionResult<IEnumerable<String>>> GetCities()
+        public async Task<ActionResult<IEnumerable<string?>>> GetCities()
         {
             var cities = await _context.Cities
              .OrderBy(temp => temp.CityName)
@@ -38,7 +35,5 @@ namespace CitiesManager.WebAPI.Controllers.v2
              .ToListAsync();
             return cities;
         }
-
-
     }
 }
