@@ -3,44 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\v1\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\v1\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.infrastructure\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|solutionrelative:citiesmanager.infrastructure\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\v2\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\v2\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\directives\\disable-control.directive.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\directives\\disable-control.directive.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|solutionrelative:citiesmanager.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.infrastructure\\migrations\\20250131172900_citynamerequired.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|solutionrelative:citiesmanager.infrastructure\\migrations\\20250131172900_citynamerequired.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.infrastructure\\migrations\\20250130171623_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE06E97-D7AD-4AFA-A339-30DD01176B79}|CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj|solutionrelative:citiesmanager.infrastructure\\migrations\\20250130171623_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\v1\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\v1\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428BF60D-83F2-4E7C-A573-D84EB1DA56B5}|CitiesManager.Core\\CitiesManager.Core.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.core\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428BF60D-83F2-4E7C-A573-D84EB1DA56B5}|CitiesManager.Core\\CitiesManager.Core.csproj|solutionrelative:citiesmanager.core\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\cities\\cities.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\cities\\cities.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\services\\cities.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\services\\cities.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\cities\\cities.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\migrations\\20250131172900_citynamerequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\migrations\\20250131172900_citynamerequired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\directives\\disable-control.directive.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\clientapp\\citiesangularapp\\src\\app\\directives\\disable-control.directive.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\controllers\\customcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\migrations\\20250130171623_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\migrations\\20250130171623_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|c:\\users\\patha\\onedrive\\desktop\\asp.net core practice\\all in one\\citiesmanagersolution\\citiesmanager.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24247FAA-C15E-4E69-87B5-508E0F919E4E}|CitiesManager.WebAPI\\CitiesManager.WebAPI.csproj|solutionrelative:citiesmanager.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,61 +82,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "cities.service.ts",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
-              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-04T13:34:47.982Z",
+              "DocumentIndex": 1,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\v2\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:10:45.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "disable-control.directive.spec.ts",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.spec.ts",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.spec.ts",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.spec.ts",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-06T18:09:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-06T18:09:20.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CitiesManager.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CitiesManager.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:08:49.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CitiesManager.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CitiesManager.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:05:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250131172900_CityNameRequired.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\Migrations\\20250131172900_CityNameRequired.Designer.cs",
+              "RelativeDocumentMoniker": "CitiesManager.Infrastructure\\Migrations\\20250131172900_CityNameRequired.Designer.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\Migrations\\20250131172900_CityNameRequired.Designer.cs",
+              "RelativeToolTip": "CitiesManager.Infrastructure\\Migrations\\20250131172900_CityNameRequired.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:08:43.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250130171623_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\Migrations\\20250130171623_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "CitiesManager.Infrastructure\\Migrations\\20250130171623_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\Migrations\\20250130171623_Initial.Designer.cs",
+              "RelativeToolTip": "CitiesManager.Infrastructure\\Migrations\\20250130171623_Initial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:08:35.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Core\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "CitiesManager.Core\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Core\\Entities\\City.cs",
+              "RelativeToolTip": "CitiesManager.Core\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:03:25.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Program.cs",
               "RelativeToolTip": "CitiesManager.WebAPI\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAA2wEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T16:44:51.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250131172900_CityNameRequired.cs",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Migrations\\20250131172900_CityNameRequired.cs",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Migrations\\20250131172900_CityNameRequired.cs",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Migrations\\20250131172900_CityNameRequired.cs",
-              "RelativeToolTip": "CitiesManager.WebAPI\\Migrations\\20250131172900_CityNameRequired.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAAiwK0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:29:00.459Z"
+              "DocumentIndex": 13,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\styles.css",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\styles.css",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\styles.css",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\styles.css",
+              "ViewState": "AgIAALQCAAAAAAAAAAA3wMQCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-06T17:46:14.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomControllerBase.cs",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
-              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:41:28.724Z"
+              "DocumentIndex": 15,
+              "Title": "disable-control.directive.ts",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.ts",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.ts",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.ts",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\directives\\disable-control.directive.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-06T17:37:31.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "cities.component.html",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.html",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.html",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.html",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-06T17:11:56.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cities.service.ts",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\services\\cities.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T13:34:47.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:30:20.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cities.component.ts",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
+              "ViewState": "AgIAAHkAAAAAAAAAAAA2wIQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T13:38:45.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
+              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-04T13:41:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "CitiesManager.WebAPI\\appsettings.json",
@@ -117,64 +307,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
-              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "CustomControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
+              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
+              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
+              "RelativeToolTip": "CitiesManager.WebAPI\\Controllers\\CustomControllerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T16:30:20.153Z",
+              "WhenOpened": "2025-01-31T17:41:28.724Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "cities.component.ts",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
-              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\cities\\cities.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-04T13:38:45.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
-              "RelativeToolTip": "CitiesManager.WebAPI\\ClientApp\\CitiesAngularApp\\src\\app\\app.module.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-02-04T13:41:33.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CitiesManager.WebAPI\\DatabaseContext\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T17:02:36.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250130171623_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Migrations\\20250130171623_Initial.cs",
-              "RelativeDocumentMoniker": "CitiesManager.WebAPI\\Migrations\\20250130171623_Initial.cs",
-              "ToolTip": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.WebAPI\\Migrations\\20250130171623_Initial.cs",
-              "RelativeToolTip": "CitiesManager.WebAPI\\Migrations\\20250130171623_Initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T17:16:23.964Z"
             }
           ]
         }

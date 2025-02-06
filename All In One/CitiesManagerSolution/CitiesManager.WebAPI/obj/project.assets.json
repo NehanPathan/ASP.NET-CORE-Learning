@@ -2890,6 +2890,30 @@
             "rid": "win"
           }
         }
+      },
+      "CitiesManager.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CitiesManager.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CitiesManager.Core.dll": {}
+        }
+      },
+      "CitiesManager.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CitiesManager.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.12"
+        },
+        "compile": {
+          "bin/placeholder/CitiesManager.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CitiesManager.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -8176,12 +8200,24 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CitiesManager.Core/1.0.0": {
+      "type": "project",
+      "path": "../CitiesManager.Core/CitiesManager.Core.csproj",
+      "msbuildProject": "../CitiesManager.Core/CitiesManager.Core.csproj"
+    },
+    "CitiesManager.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CitiesManager.Infrastructure/CitiesManager.Infrastructure.csproj",
+      "msbuildProject": "../CitiesManager.Infrastructure/CitiesManager.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Asp.Versioning.Mvc >= 8.1.0",
       "Asp.Versioning.Mvc.ApiExplorer >= 8.1.0",
+      "CitiesManager.Core >= 1.0.0",
+      "CitiesManager.Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.12",
@@ -8221,7 +8257,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj": {
+              "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Core\\CitiesManager.Core.csproj"
+            },
+            "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\patha\\OneDrive\\Desktop\\ASP.NET Core Practice\\All In One\\CitiesManagerSolution\\CitiesManager.Infrastructure\\CitiesManager.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

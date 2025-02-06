@@ -511,7 +511,6 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSo
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.AssemblyInfoInputs.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.AssemblyInfo.cs
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.sourcelink.json
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
@@ -534,3 +533,7 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSo
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\tsconfig.app.json
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\tsconfig.json
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\ClientApp\CitiesAngularApp\tsconfig.spec.json
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Core.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Infrastructure.dll
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Core.pdb
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\CitiesManager.Infrastructure.pdb

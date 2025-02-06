@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[CitiesManager.WebAPI.Models.City, CitiesManager.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CitiesManager.Core.Models.City, CitiesManager.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
@@ -27,13 +27,13 @@
     "Parameters": [
       {
         "Name": "city",
-        "Type": "CitiesManager.WebAPI.Models.City",
+        "Type": "CitiesManager.Core.Models.City",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "CitiesManager.WebAPI.Models.City",
+        "Type": "CitiesManager.Core.Models.City",
         "MediaTypes": [
           "application/json"
         ],
@@ -57,7 +57,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "CitiesManager.WebAPI.Models.City",
+        "Type": "CitiesManager.Core.Models.City",
         "MediaTypes": [
           "application/json"
         ],
@@ -80,7 +80,7 @@
       },
       {
         "Name": "city",
-        "Type": "CitiesManager.WebAPI.Models.City",
+        "Type": "CitiesManager.Core.Models.City",
         "IsRequired": true
       }
     ],

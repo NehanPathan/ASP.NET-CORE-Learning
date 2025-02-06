@@ -10,6 +10,8 @@
         "dependencies": {
           "Asp.Versioning.Mvc": "8.1.0",
           "Asp.Versioning.Mvc.ApiExplorer": "8.1.0",
+          "CitiesManager.Core": "1.0.0",
+          "CitiesManager.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.12",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.12",
@@ -2007,6 +2009,26 @@
             "fileVersion": "7.0.22.51805"
           }
         }
+      },
+      "CitiesManager.Core/1.0.0": {
+        "runtime": {
+          "CitiesManager.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CitiesManager.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CitiesManager.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.12"
+        },
+        "runtime": {
+          "CitiesManager.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -3198,6 +3220,16 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "CitiesManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CitiesManager.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

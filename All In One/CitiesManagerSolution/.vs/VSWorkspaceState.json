@@ -3,8 +3,8 @@
     "",
     "\\CitiesManager.WebAPI",
     "\\CitiesManager.WebAPI\\Controllers",
-    "\\CitiesManager.WebAPI\\Migrations"
+    "\\CitiesManager.WebAPI\\Controllers\\v1"
   ],
-  "SelectedNode": "\\CitiesManagerSolution.sln",
+  "SelectedNode": "\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
   "PreviewInSolutionExplorer": false
 }
