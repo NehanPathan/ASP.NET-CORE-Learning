@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CitiesManager.Infrastructure",
+    "\\CitiesManager.Infrastructure\\DatabaseContext",
     "\\CitiesManager.WebAPI",
     "\\CitiesManager.WebAPI\\Controllers",
     "\\CitiesManager.WebAPI\\Controllers\\v1"
   ],
-  "SelectedNode": "\\CitiesManager.WebAPI\\Controllers\\v1\\CitiesController.cs",
+  "SelectedNode": "\\CitiesManagerSolution.sln",
   "PreviewInSolutionExplorer": false
 }

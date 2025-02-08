@@ -12,4 +12,9 @@
     <WebStackScaffolding_DbContextTypeFullName>CitiesManager.WebAPI.DatabaseContext.ApplicationDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
   </PropertyGroup>
+  <ItemGroup>
+    <TypeScriptCompile Update="ClientApp\CitiesAngularApp\src\app\validators\custom-validators.ts">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
+  </ItemGroup>
 </Project>
