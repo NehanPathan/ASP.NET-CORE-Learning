@@ -1,5 +1,7 @@
 using Asp.Versioning;
 using CitiesManager.Core.Identity;
+using CitiesManager.Core.ServiceContracts;
+using CitiesManager.Core.Services;
 using CitiesManager.Infrastructure.DatabaseContext;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
@@ -16,6 +18,8 @@ builder.Services.AddControllers(options => {
 })
  .AddXmlSerializerFormatters();
 
+
+builder.Services.AddTransient<IJwtService, JwtService>();//Register JwtService inTo DI container
 
 //Enable versioning in Web API controllers
 var apiVersioningBuilder = builder.Services.AddApiVersioning(config =>

@@ -554,3 +554,4 @@ C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSo
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\obj\Debug\net8.0\CitiesManager.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\patha\OneDrive\Desktop\ASP.NET Core Practice\All In One\CitiesManagerSolution\CitiesManager.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
