@@ -9,6 +9,7 @@ using CitiesManager.Infrastructure.DatabaseContext;
 using CitiesManager.Core.Models;
 using Asp.Versioning;
 using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CitiesManager.WebAPI.Controllers.v1
 {
