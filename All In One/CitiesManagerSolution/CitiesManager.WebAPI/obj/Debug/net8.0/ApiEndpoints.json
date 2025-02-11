@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "CitiesManager.WebAPI.Controllers.v1.AccountController",
+    "Method": "GenerateNewAccessToken",
+    "RelativePath": "api/v1/Account/generate-new-jwt-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tokenModel",
+        "Type": "CitiesManager.Core.DTO.TokenModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CitiesManager.WebAPI.Controllers.v1.AccountController",
     "Method": "PostLogin",
     "RelativePath": "api/v1/Account/login",
     "HttpMethod": "POST",

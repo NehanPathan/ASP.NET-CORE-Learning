@@ -6,6 +6,7 @@ using Microsoft.IdentityModel.Tokens;
 using System;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
 
 namespace CitiesManager.Core.Services
@@ -36,7 +37,8 @@ namespace CitiesManager.Core.Services
      new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()), //JWT unique ID
      new Claim(JwtRegisteredClaimNames.Iat, DateTimeOffset.UtcNow.ToUnixTimeSeconds().ToString()), //Issued at (date and time of token generation)
      new Claim(ClaimTypes.NameIdentifier, user.Email), //Unique name identifier of the user (Email)
-     new Claim(ClaimTypes.Name, user.PersonName) //Name of the user
+     new Claim(ClaimTypes.Name, user.PersonName), //Name of the user
+     new Claim(ClaimTypes.Email, user.Email) //Email of the user
      };
 
             // Create a SymmetricSecurityKey object using the key specified in the configuration.
@@ -59,7 +61,52 @@ namespace CitiesManager.Core.Services
             string token = tokenHandler.WriteToken(tokenGenerator);
 
             // Create and return an AuthenticationResponse object containing the token, user email, user name, and token expiration time.
-            return new AuthenticationResponse() { Token = token, Email = user.Email, PersonName = user.PersonName, Expiration = expiration };
+            return new AuthenticationResponse() { 
+                Token = token, Email = user.Email,
+                PersonName = user.PersonName,
+                Expiration = expiration,
+                RefreshToken = GenerateRefreshToken(),
+                RefreshTokenExpirationDateTime = DateTime.Now.AddMinutes
+                (Convert.ToInt32( _configuration["RefreshToken:EXPIRATION_MINUTES"]))};
         }
+
+        public ClaimsPrincipal? GetPrincipalFromJwtToken(string? token)
+        {
+            var tokenValidationParameters = new TokenValidationParameters()
+            {
+                ValidateAudience = true,
+                ValidAudience = _configuration["Jwt:Audience"],
+                ValidateIssuer = true,
+                ValidIssuer = _configuration["Jwt:Issuer"],
+
+                ValidateIssuerSigningKey = true,
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"])),
+
+                ValidateLifetime = false //should be false
+            };
+
+            JwtSecurityTokenHandler jwtSecurityTokenHandler = new JwtSecurityTokenHandler();
+
+            ClaimsPrincipal principal = jwtSecurityTokenHandler.ValidateToken(token, tokenValidationParameters, out SecurityToken securityToken);
+
+            if (securityToken is not JwtSecurityToken jwtSecurityToken || !jwtSecurityToken.Header.Alg.Equals(SecurityAlgorithms.HmacSha256, StringComparison.InvariantCultureIgnoreCase))
+            {
+                throw new SecurityTokenException("Invalid token");
+            }
+
+            return principal;
+        }
+
+        // Create a RefreshToken object and return it.
+        private string GenerateRefreshToken()
+        {
+            byte[] bytes = new byte[64];
+            var randomNumber = RandomNumberGenerator.Create();
+
+            randomNumber.GetBytes(bytes);
+            
+            // Convert the byte array to a Base64 string and return it.
+            return Convert.ToBase64String(bytes);
+        } 
     }
 }

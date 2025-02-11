@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CitiesManager.Core",
+    "\\CitiesManager.Core\\Services",
     "\\CitiesManager.Infrastructure",
     "\\CitiesManager.Infrastructure\\DatabaseContext",
     "\\CitiesManager.WebAPI",
