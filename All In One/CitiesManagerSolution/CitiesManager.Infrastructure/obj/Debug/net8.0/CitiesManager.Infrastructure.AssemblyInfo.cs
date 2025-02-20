@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitiesManager.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30fd018535e514fe78fc75bf00e6bf076c47e68e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74980c98ae3f04c75a6cdedc49f4f0acca6e29c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitiesManager.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitiesManager.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
