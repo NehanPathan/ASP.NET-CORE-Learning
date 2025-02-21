@@ -1,0 +1,383 @@
+Extension Methods
+Extension method is a method injected (added) into an existing class (or struct or interface), without modifying the source code of that class (or struct or interface).
+
+
+
+Existing Class
+
+class ClassName
+{
+}
+
+
+Static Class for Extension Method
+
+static class ClassName
+{
+  public static ReturnType MethodName(this ClassName ParameterName, …)
+  {
+    method body here
+  }
+}
+
+
+The developer of ClassLibrary, creates a class with a set of methods. The consumer of ClassLibrary, can add additional methods to the same class, without modifying the source code of the ClassLibrary.
+
+You can add additional methods to pre-defined classes / structures such as String, Int32, Console etc.
+
+You must create a static class with a static method; that it will be added as a non-static method to the specified class.
+
+This feature is introduced in C# 3.0.
+
+The first parameter of extension must be having "this" keyword; followed by the class name / structure name, to which you want to add the extension method. Eg: this ClassName parameter
+
+The parameter (with 'this' keyword) represents the current object, just like "this" keyword in the instance methods.
+
+Extension method can have any no. of additional parameters, where the "this" keyword parameter is must.
+
+Extension method does not support method overriding. That means, extension method's signature can't be same as any existing method.
+
+You can also add extension methods to sealed class.
+
+'Extension Methods' concept can't be used to create fields, properties, or events.
+
+The static class of extension method can't be inner class.
+
+The namespace in which the static class of extension method is created, must be imported in order to call the extension method as non-static method.
+
+
+
+---------------------------------
+
+
+
+Anonymous Methods
+Anonymous methods are "name-less methods", that can be invoked by using the delegate variable or an event.
+
+
+
+Subscribe to Event with Anonymous Method:
+
+EventName += delegate(param1, param2, …)
+{
+  //method body here
+}
+
+
+Anonymous methods can be used anywhere within the method, to create methods instantly, without define a method at the class level.
+
+Advantage: We need not create a "named method (normal method)" to quickly handle an event.
+
+
+
+Rules:
+
+It can't be called without a delegate or event.
+
+It can't contain jump statements like goto, break, continue.
+
+It can access local variables and parameters of outer method.
+
+It can be passed as a parameter to any method; in this case, the delegate acts as data type for the anonymous method.
+
+It can't access ref or out parameter of an outer method.
+
+It is mainly used for event handlers.
+
+
+
+
+
+Lambda Expressions
+"Lambda Expressions" (a.k.a. Statement Lambda) are "name-less methods", that can be invoked by using the delegate variable or an event, much like anonymous methods.
+
+
+
+Handle Event with Lambda Expressions:
+
+EventName += (param1, param2, …) =>
+{
+  //method body here
+}
+
+
+Lambda Expressions can be used anywhere within the method, to create methods instantly, without define a method at the class level.
+
+Advantage: It provides more easier and convenient syntax than "Anonymous methods".
+
+=> operator is called as "goes to" or "goes into" operator.
+
+
+
+
+
+
+
+Inline Lambda Expressions
+"Inline Lambda Expressions" (a.k.a. Expression Lambda) are the lambda expressions, which performs a small calculation or condition check and returns a value.
+
+Inline lambdas can receive one or more arguments and must return a value.
+
+Advantage: It provides more easier and convenient syntax to create smaller methods that performs a single calculation or condition check.
+
+
+
+
+
+Handle Event with Inline Lambda Expressions:
+
+EventName += (param1, param2, …) => condition or calculation
+
+
+
+
+
+----------------------------------
+
+
+
+'Dictionary' Collection
+Dictionary collection contains a group of elements of key/value pairs.
+
+Full Path: System.Collections.Generic.Dictionary
+
+The "Dictionary" class is a generic class; so you need to specify data type of the key and data type of the value while creating object.
+
+You can set / get the value based on the key.
+
+The key can't be null or duplicate.
+
+
+
+
+
+
+Dictionary<TKey, TValue> referenceVariable = new Dictionary<TKey, TValue>( );
+
+
+
+Features of 'Dictionary' class
+
+It is dynamically sized. You can add, remove elements (key/value pairs) at any time.
+
+Key can't be null or duplicate; but value can be null or duplicate.
+
+It is not index-based. You need to access elements by using key.
+
+It is not sorted by default. The elements are stored in the same order, how they are initialized.
+
+
+
+Properties of 'Dictionary' class
+
+Count             :     Returns count of elements.
+
+[TKey]            :     Returns value based on specified key.
+
+Keys               :      Returns a collection of key (without values).
+
+Values            :      Returns a collection of values (without keys).
+
+
+
+Methods of 'Dictionary' class
+
+void Add(TKey, TValue)            : Adds an element (key/value pair).
+
+bool Remove(TKey)                  : Removes an element based on specified key.
+
+bool ContainsKey(TKey)         : Determines whether the specified key exists.
+
+bool ContainsValue(TValue)   : Determines whether the specified value exists.
+
+void Clear()                                 : Removes all elements.
+
+
+
+Collection of Objects
+'Collection of objects' is an collection object, where each element stores a reference to some other object.
+
+Used to store details of groups of people or things.
+
+
+
+
+
+
+List<ClassName> referenceVariable = new List<ClassName>( );
+referenceVariable.Add(object1);
+referenceVariable.Add(object2);
+referenceVariable.Add(object3);
+…
+
+
+
+
+
+
+----------------
+
+
+
+Object Relations
+An object can contain a field that stores references to one or more objects.
+
+
+
+One-to-One Relation
+
+
+
+
+One-to-Many Relation
+
+
+
+
+Many-to-One Relation
+
+
+
+
+
+
+------------------------
+
+
+
+
+
+Interfaces
+Interface is a set of abstract methods, that must be implemented by the child classes.
+
+
+
+Eg:
+
+
+
+
+Interface
+
+interface InterfaceName
+{
+    ReturnDataType MethodName(param1, …);
+}
+
+
+Child Class of Interface
+
+class ChildClassName : InterfaceName
+{
+    public ReturnDataType MethodName(param1, …)
+    {
+    }
+}
+
+
+The child class that implements the interface, MUST implement ALL METHODS of the interface.
+
+Interface methods are by default "public" and "abstract".
+
+The child class must implement all interface methods, with same signature.
+
+You can't create object for interface.
+
+You can create reference variable for the interface.
+
+The reference variable of interface type can only store the address of objects of any one of the corresponding child classes.
+
+You can implement multiple interfaces in the same child class [Multiple Inheritance].
+
+An interface can be child of another interface.
+
+
+
+
+
+Comparison Table: Abstract Class (vs) Interface
+
+
+
+Based on members:
+
+
+
+LINQ
+LINQ is a 'uniform query syntax' that allows you to retrieve data from various data sources such as arrays, collections, databases, XML files.
+
+
+
+
+
+
+LINQ Query - Example
+
+var result = Customers.Where(temp => temp.Location == "New York").ToList( );
+//returns a list of customers from New York location.
+
+
+
+
+Advantages of LINQ
+Single Syntax - To Query Multiple Data Sources
+
+Developer uses the same LINQ syntax to retrieve information from various data sources such as collections, SQL Server database, Entity Framework DbSet's, ADO.NET DataSet etc.
+
+
+
+Compile-Time Checking of Query Errors
+
+Errors in the LINQ query will be identified while compilation time / while writing the code in Visual Studio.
+
+
+
+IntelliSence Support
+
+The list of properties of types are shown in VS IntelliSence while writing the LINQ queries.
+
+
+
+
+
+
+
+LINQ Extension Methods
+Filtering: Where, OfType
+
+Sorting: OrderBy, OrderByDescending, ThenBy, ThenByDescending, Reverse
+
+Grouping: GroupBy
+
+Join: Join
+
+Project: Select, SelectMany
+
+Aggregation: Average, Count, Max, Min, Sum
+
+Quantifiers: All, Any, Contains
+
+Elements: ElementAt, ElementAtOrDefault, First, FirstOrDefault, Last, LastOrDefault, Single, SingleOrDefault
+
+Set Operations: Distinct, Except, Intersect, Union
+
+Partitioning: Skip, SkipWhile, Take, TakeWhile
+
+Concatenation: Concat
+
+Equality: SequenceEqual
+
+Generation: DefaultEmpty, Empty, Range, Repeat
+
+Conversion: AsEnumerable, AsQueryable, Cast, ToArray, ToDictionary, ToList
+
+
+
+
+
+
+
+
+
+
+------------------------
