@@ -1,13 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CitiesManager.Core",
-    "\\CitiesManager.Core\\Services",
     "\\CitiesManager.Infrastructure",
     "\\CitiesManager.Infrastructure\\DatabaseContext",
     "\\CitiesManager.WebAPI",
     "\\CitiesManager.WebAPI\\Controllers",
-    "\\CitiesManager.WebAPI\\Controllers\\v1"
+    "\\CitiesManager.WebAPI\\Controllers\\v1",
+    "\\CitiesManager.WebAPI\\obj",
+    "\\CitiesManager.WebAPI\\obj\\Release",
+    "\\CitiesManager.WebAPI\\obj\\Release\\net8.0",
+    "\\CitiesManager.WebAPI\\Properties"
   ],
   "SelectedNode": "\\CitiesManagerSolution.sln",
   "PreviewInSolutionExplorer": false

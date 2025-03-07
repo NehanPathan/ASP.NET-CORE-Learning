@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitiesManager.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74980c98ae3f04c75a6cdedc49f4f0acca6e29c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40a1671d68db9a4f697e3edebd8df99399854e81")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitiesManager.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitiesManager.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
